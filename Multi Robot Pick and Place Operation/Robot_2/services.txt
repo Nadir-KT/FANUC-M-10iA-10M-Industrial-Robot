@@ -1,0 +1,14 @@
+RPCMAIN                   : 12350
+Teach Pendant             : 9104
+FTP                       : 9125
+CGTP Web Server           : 9000
+TP_INPUT Server           : 60005
+Robot Discovery Method    : 60009
+Web Server                : 9001
+KCL                       : 9106
+Console/SMON              : 9105
+Cimplicity Server         : 9020
+Robot IF Server           : 9021
+ROBOGUIDE (pid)           : 1356
+Robot Server (pid)        : 4384
+Virtual Robot (pid)       : 8712
