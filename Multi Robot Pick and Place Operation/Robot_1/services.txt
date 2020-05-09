@@ -9,6 +9,6 @@ KCL                       : 9102
 Console/SMON              : 9101
 Cimplicity Server         : 18245
 Robot IF Server           : 60008
-ROBOGUIDE (pid)           : 1356
-Robot Server (pid)        : 9684
-Virtual Robot (pid)       : 9656
+ROBOGUIDE (pid)           : 6840
+Robot Server (pid)        : 3276
+Virtual Robot (pid)       : 8460

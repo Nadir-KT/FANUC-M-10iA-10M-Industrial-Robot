@@ -327,25 +327,3 @@ SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>desktop-mbmd4ji:10008
 Copy time 1 
 
 SMON(main)> copy mdb:*.* virt:\tmpback\=>desktop-mbmd4ji:10008
-Copy time 2404 
-
-SMON(main)> xcopy fr:\*.* virt:\tmpback\*.*=>desktop-mbmd4ji:10008
-spcmd time 45 
-spcmd completed successfully.
-
-
-SMON(main)> xcopy fra:\*.* virt:\tmpback\*.*=>desktop-mbmd4ji:10008
-[SPRUNCMDF] status = 2A0014; "XCOPY FRA:\*.* VIRT:\TMPBACK\*.*  " : FRA:\*.*
-End of directory
-[SMON] error 0x002A0014
-R E S E T                                                                     
-[NtrosStop] Cleanup symbols
-[NtrosStop] oppwfmem_save
-[PMON] Disconnecting from <127.000.000.001:5183>
-[NtrosStop] vshadow_poweroff
-[NtrosStop] Saving FROM
-[futil_save] Unmapping FROM memory
-[NtrosStop] Saving Complete
-Switching states: old = STARTUP   new = SHUTDOWN
-Tick            Avg: 1.869 ms, Min: 0.013 ms, Max: 1396.067 ms, ticks: 113244
-Execution times Avg: 0.006 ms, Min: 0.001 ms, Max: 0.404 ms
