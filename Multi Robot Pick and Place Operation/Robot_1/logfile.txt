@@ -42,7 +42,7 @@ Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\DRASKER.DLL
 [ntinit] Current locale is C
 [ntinit] Set locale to English_United States.1252
 Switching states: old = STARTUP   new = STARTUP 
-[NTINIT] Frequency 10000000, Ticks/ms 10000 BusClock 40000000
+[NTINIT] Frequency 2241064, Ticks/ms 2241 BusClock 8964256
 [IEWTQ] Count = 0 add to head/tail task: 199  cnt: 24  pri: 10
 [osppc] Virtual Clock timer device resolution discovery suceeded, min res: 1 ms
 [NTPORT] Ready for connections at 9100
@@ -50,36 +50,37 @@ Switching states: old = STARTUP   new = STARTUP
 [NTPORT] Ready for connections at 9102
 [NTPORT] Ready for connections at 9103
 [OSSERV] VIRTUAL not doing multi-processing service
-main bus clock 40
+main bus clock 8
 main PCB version 4
 [ostkinit] TPWDOG_CHK $0
  
 [DSFL] MAIN V7.20 PCMCIA-ATA RD@0x0 (-128) dfdevtbl@0x2D736511
 [ksinitsk] syin continues
-Updated $MC_PATH = c:\users\ndr\DOCUME~1\github\FANUC-~1\MULTIR~1\robot_1\mc
+Updated $MC_PATH = C:\Users\NDR\Documents\My Workcells\HandlingPRO\Robot_1\MC
 Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V7.50
 Updated $UD1_PATH to = C:\Users\NDR\Documents\My Workcells\HandlingPRO\Robot_1\UD1
 Updated $UD2_PATH to = C:\Users\NDR\Documents\My Workcells\HandlingPRO\Robot_1\UD2
-[syinit] bootrom time: 193746 ms
+[syinit] bootrom time: 1764960 ms
 [syinit] ** HOT START **
 [syinit] System Version V7.50122       8/1/2012
 [ERLOG] Waiting for UIF to start up
 [syinisb0]VIRTUAL case,setting master_p->initializing to FALSE
 [ostkinit] ID $31 type 1D baud 31 version I
 [ostkinit] TP Baud Rate 19200
-[ostkinit] TPWDOG_CHK+2 $1000
+[NTPORT] accept connection
 [syinit] ** HOT START **
 [dpinit] setting cur lang to NULL
 [dpsetlng] setting cur lang to DEFAULT     
 [tppascon_config] wait for EVB_SPINITDONE
 [sycfgmen] cfgmenu_p 0x406F758C
-[syinisb0] tpid check ltp = 0x61DF68, tpid = 49
+[ostkinit] TPWDOG_CHK+2 $1000
+[syinisb0] tpid check ltp = 0x81E18A8, tpid = 49
 [NTSYIN_STEP] Startup Step #1
 VMGR for R-J3iC V7.20
 [vmshadow_periodic] Normal power shutdown state = 0
 [vminit_loadctx] Loaded FRB:\S-SYSTEM.PRV only
 [vminit_loadctx] Loaded FRB:\S-INTERN.PRV only
-[vminit_loadctx] Done Loading Time = 54300us
+[vminit_loadctx] Done Loading Time = 56433us
 [NTSYIN_STEP] Startup Step #2
 [NTFRCPY] Did not load \TMILIB.DLL
 [NTSYIN_STEP] Startup Step #3
@@ -98,9 +99,9 @@ Web Enhancements installed
 [syinisb0] Legacy 2, tpid = 49
 [dpsetlng] setting cur lang to DEFAULT     
 [tppascon_config] wait for EVB_SPINITDONE
-[dpimage_restctx] Loading DEFAULT      dictionaries pool_avail = 30870256
+[dpimage_restctx] Loading DEFAULT      dictionaries pool_avail = 30878924
 [dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 224 Time 0ms
-[dpimage_restctx] Dictionaries loaded pool_avail = 30062636
+[dpimage_restctx] Dictionaries loaded pool_avail = 30071340
 [dpsetlng] setting cur lang to DEFAULT     
 [tppascon_config] wait for EVB_SPINITDONE
 [NTSYIN_STEP] Startup Step #4
@@ -112,12 +113,12 @@ Web Enhancements installed
 [NTFRCPY] Did not load \UECK.DLL
 [NTFRCPY] Did not load \VSMO.DLL
 [NTFRCPY] Did not load \YBOX.DLL
-[SYSINISB0] spspload reference time 44355 ms, This Time 266ms
+[SYSINISB0] spspload reference time 44355 ms, This Time 187ms
 [vminit_loadctx] Loading all files
-[vminit_loadctx] Done Loading Time = 57646us
+[vminit_loadctx] Done Loading Time = 42253us
 [Syin] Mobo start 0xFFFFFFFF
 [NTSYIN_STEP] Startup Step #5
-[SYINISB)] total time 925
+[SYINISB)] total time 804
 [NTSYIN_STEP] Startup Step #6
 [NTSYIN_STEP] Startup Step #7
 [SYINISUB] Saving user device MC:
@@ -187,7 +188,7 @@ sswrkset ****rspaceg_p is 406270E0
 [vlog] oschggrp(115, 4, 0) 0x00000000
 [vtrn] wake up
 [vtrn] oschggrp(136, 4, 0) 0x00000000
-[vtrn] VTRN_P: $08734028
+[vtrn] VTRN_P: $0D38E1D0
 
 WEB Server starting
 Web Enhancements installed
@@ -207,8 +208,8 @@ Web Enhancements installed
 [NTSYIN_STEP] Startup Step #33
 [DEBUG] Entering moinit
 [lcmainsp] size of $SERV_REC is 3616
-[modaq] create XYZ named pipe hPipe = 600
-[sfmdest] null_flg_p:82D740C
+[modaq] create XYZ named pipe hPipe = 42C
+[sfmdest] null_flg_p:CF315B4
 [pmgr]shakehand px01, px_starting=126
 [pmgr]shakehand px02, px_starting=124
 [pmgr]shakehand px03, px_starting=120
@@ -216,7 +217,7 @@ Web Enhancements installed
 [pmgr]shakehand px05, px_starting=96
 [pmgr]shakehand px06, px_starting=64
 [pmgr]shakehand px07, px_starting=0
-[miinit][1] posted init PKT <6CCBE98> to task<72> (0)
+[miinit][1] posted init PKT <B923858> to task<72> (0)
 [mpinit] initialize mb_fp
 [mpinit] after mpdyinit
 [mpinit] ossndpkt <0>
@@ -228,7 +229,7 @@ Web Enhancements installed
 [nectkini] finish wake up  stat = 0
 [moinit] done
 [miinit] done 
-[ostksock_create] Socket 1512 binding to IP port # 60004
+[ostksock_create] Socket 1064 binding to IP port # 60004
 [ostksock_create] T-X IP address <001.001.001.011>
 [mfinidsp] wait for SCRDY
 [mfinidsp] start ITP
@@ -236,7 +237,7 @@ Web Enhancements installed
 [mfinidsp] check FSSB open
 [mfinidsp] waiting for SSTB...
 [mfinidsp] all SSTB become 1
-[syinisub] TICK_OFFSET 6192B4 to 0
+[syinisub] TICK_OFFSET 56B2BC to 0
 [NTSYIN_STEP] Startup Step #34
 [NTSYIN_STEP] Startup Step #35
 [syinit] waiting for EVF_ENB_PWF...
@@ -268,8 +269,8 @@ Ready to run SHELL
 [syinit] end
 [syinisub.c] spmk2tsk(HTTC), status = $0
 [RDM] Robot Discovery Method V6.2003 @0x2FC01000
-[RDM]: Binding to udp port number 60008
-[RDM] Robot Discovery Method ready on port 60008
+[RDM]: Binding to udp port number 60007
+[RDM] Robot Discovery Method ready on port 60007
 [PRXY] Proxy Server Starting
 [PRXY] HTTP Proxy Server ready for connections on 8080
 [PXPMON] PMON Proxy Server ready for connections on 60005
@@ -279,7 +280,7 @@ WEB Server starting
 [HTTC]: Binding to tcp port number 4080
 [symonutl] Getting data (3EA, 0)
 [symonutl] Fail to get mac from I2C (1)
-SYINISUB TOTAL TIME 2017
+SYINISUB TOTAL TIME 2179
 [SYINISUB] restored user device MC:
 [NTSYIN_STEP] Startup Step #40
 [TPSPART] Found KAREL ATMSKCHG 200
@@ -287,10 +288,10 @@ SYINISUB TOTAL TIME 2017
 [TPSPART] Found KAREL ATWAITRL 931
 [TPSPART] Found KAREL ATPRSCRN 932
 [TPSPART] Found KAREL ATPASWRD 935
-[TPKSINIT] dname -K943- not found devstat = 0 cfg $80005E0
+[TPKSINIT] dname -K943- not found devstat = 0 cfg $CC5A788
 [TPSPART] Found KAREL ATCELLIO 955
-[TPKSINIT] dname -K972- not found devstat = 0 cfg $8000354
-[TPKSINIT] dname -K973- not found devstat = 0 cfg $8000238
+[TPKSINIT] dname -K972- not found devstat = 0 cfg $CC5A4FC
+[TPKSINIT] dname -K973- not found devstat = 0 cfg $CC5A3E0
 [TPSPART] Found KAREL ATSOFTPA 992
 [FTP] getservbyname failed
 [FTP] getservbyname failed
@@ -303,47 +304,71 @@ SYINISUB TOTAL TIME 2017
 SMON(main)> xyzrate 61
 spcmd time 0 
 spcmd completed successfully.
-DAQ connecting to <127.0.0.1:10546>
+DAQ connecting to <127.0.0.1:1817>
 R E S E T                                                                     
 [ntsuperv] Sync state change from 0 to 1
 
-SMON(main)> xyzrate 61=>desktop-mbmd4ji:4084
+SMON(main)> xyzrate 61=>inspiron:2400
 spcmd time 0 
 spcmd completed successfully.
 
-[NTPORT] accept connection
-[osppc] Tick time changed -20000
-[osppc] Tick time changed -1200
-[NTPORT] accept connection
-SYST-039 Operation mode T2 Selected                                            
-R E S E T                                                                     
-SYST-040 Operation mode AUTO Selected                                          
-R E S E T                                                                     
-[FRSOCK] recv failed (no pending)! 0x2745
 
-SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>desktop-mbmd4ji:4084
-Copy time 10 
+SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>inspiron:2400
+Copy time 2 
 
-SMON(main)> copy mdb:*.* virt:\tmpback\=>desktop-mbmd4ji:4084
-Copy time 1889 
+SMON(main)> copy mdb:*.* virt:\tmpback\=>inspiron:2400
+Copy time 1753 
 
-SMON(main)> xcopy fr:\*.* virt:\tmpback\*.*=>desktop-mbmd4ji:4084
-spcmd time 49 
+SMON(main)> xcopy fr:\*.* virt:\tmpback\*.*=>inspiron:2400
+spcmd time 51 
 spcmd completed successfully.
 
 
-SMON(main)> xcopy fra:\*.* virt:\tmpback\*.*=>desktop-mbmd4ji:4084
+SMON(main)> xcopy fra:\*.* virt:\tmpback\*.*=>inspiron:2400
+[SPRUNCMDF] status = 2A0014; "XCOPY FRA:\*.* VIRT:\TMPBACK\*.*  " : FRA:\*.*
+End of directory
+[SMON] error 0x002A0014
+R E S E T                                                                     
+
+SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>inspiron:2400
+Copy time 3 
+
+SMON(main)> copy mdb:*.* virt:\tmpback\=>inspiron:2400
+Copy time 2172 
+
+SMON(main)> xcopy fr:\*.* virt:\tmpback\*.*=>inspiron:2400
+spcmd time 64 
+spcmd completed successfully.
+
+
+SMON(main)> xcopy fra:\*.* virt:\tmpback\*.*=>inspiron:2400
+[SPRUNCMDF] status = 2A0014; "XCOPY FRA:\*.* VIRT:\TMPBACK\*.*  " : FRA:\*.*
+End of directory
+[SMON] error 0x002A0014
+R E S E T                                                                     
+
+SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>inspiron:2400
+Copy time 8 
+
+SMON(main)> copy mdb:*.* virt:\tmpback\=>inspiron:2400
+Copy time 2411 
+
+SMON(main)> xcopy fr:\*.* virt:\tmpback\*.*=>inspiron:2400
+spcmd time 83 
+spcmd completed successfully.
+
+
+SMON(main)> xcopy fra:\*.* virt:\tmpback\*.*=>inspiron:2400
 [SPRUNCMDF] status = 2A0014; "XCOPY FRA:\*.* VIRT:\TMPBACK\*.*  " : FRA:\*.*
 End of directory
 [SMON] error 0x002A0014
 R E S E T                                                                     
 [NtrosStop] Cleanup symbols
 [NtrosStop] oppwfmem_save
-[PMON] Disconnecting from <127.000.000.001:5182>
 [NtrosStop] vshadow_poweroff
 [NtrosStop] Saving FROM
 [futil_save] Unmapping FROM memory
 [NtrosStop] Saving Complete
 Switching states: old = STARTUP   new = SHUTDOWN
-Tick            Avg: 1.133 ms, Min: 0.001 ms, Max: 1254.878 ms, ticks: 202081
-Execution times Avg: 0.006 ms, Min: 0.001 ms, Max: 2.916 ms
+Tick            Avg: 1.076 ms, Min: 0.002 ms, Max: 1139.113 ms, ticks: 494100
+Execution times Avg: 0.006 ms, Min: 0.001 ms, Max: 9.351 ms
