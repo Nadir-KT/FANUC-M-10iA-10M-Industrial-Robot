@@ -1,0 +1,620 @@
+F Number: F00000    
+VERSION : HandlingTool         
+$VERSION: V7.50130      3/19/2015
+DATE:     10-MAY-20 08:54 
+
+TASK STATES:
+
+1      PNLINST status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: PNLINST                             
+Line:   223       Program: PNLINST                               Type: PC    
+
+2       PSCOLD status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: PSCOLD                              
+Line:    93       Program: PSCOLD                                Type: PC    
+
+3     SYRSRUTL status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: SYRSRUTL                            
+Line:    63       Program: SYRSRUTL                              Type: PC    
+
+4      ATSHELL RUNNING @ 1072 in ATSHELL of ATSHELL
+
+******  History Data  ******
+Routine depth: 0  Routine: ATSHELL                             
+Line:  1072       Program: ATSHELL                               Type: PC    
+
+5     LOADCELL status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: LOADCELL                            
+Line:    91       Program: LOADCELL                              Type: PC    
+
+6      SWIMSET status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: SWIMSET                             
+Line:   348       Program: SWIMSET                               Type: PC    
+
+7 MULTIROBOTTASK status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: MULTIROBOTTASK                      
+Line:     1       Program: MULTIROBOTTASK                        Type: TP    
+
+
+PROGRAM STATES:
+-BCKED8-      TP    
+Task: no   
+Size:  132  
+Lines:    0  
+Program name:    -BCKED8-  
+Comment:         
+Program size:    132 bytes
+Created time:    27-JAN-20 21:48 
+Last modified:   27-JAN-20 21:48 
+Allocated size:  372 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+-BCKED9-      TP    
+Task: no   
+Size:  132  
+Lines:    0  
+Program name:    -BCKED9-  
+Comment:         
+Program size:    132 bytes
+Created time:    27-JAN-20 21:48 
+Last modified:   27-JAN-20 21:48 
+Allocated size:  372 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+-BCKEDT-      TP    
+Task: no   
+Size:  132  
+Lines:    0  
+Program name:    -BCKEDT-  
+Comment:         
+Program size:    132 bytes
+Created time:    27-JAN-20 21:48 
+Last modified:   27-JAN-20 21:48 
+Allocated size:  372 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+ATERRJOB      VR    
+Task: no   
+Size:    0  
+Vars:     1  
+Types:     0  
+Program name:    ATERRJOB  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  304 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+GEMDATA       PC    
+Task: no   
+Size:   12  
+Vars:     4  
+Types:     0  
+Program name:    GEMDATA  
+Comment:         GEM Vars
+Program size:    12 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\PCSEND\GEMDATA.PC
+Allocated size:  289 bytes
+Protection:      OFF
+Stack size:      300 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+Checksum:        59922
+
+GETDATA       MACRO 
+Task: no   
+Size:  286  
+Lines:    2  
+Program name:    GETDATA  
+Comment:         Get PC Data
+Program size:    286 bytes
+Created time:    14-OCT-10 11:38 
+Last modified:   01-JUN-99 14:21 
+Source file:     SENDDATA
+Allocated size:  654 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+GET_HOME      PC    
+Task: no   
+Size: 1767  
+Vars:    17  
+Types:     0  
+Program name:    GET_HOME  
+Comment:         Get Home Pos
+Program size:    1767 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\CMSHCORE\GET_HOME.PC
+Allocated size:  2312 bytes
+Protection:      OFF
+Stack size:      300 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        37861
+
+HI03M61C      PC    
+Task: no   
+Size: 4999  
+Vars:     8  
+Types:     0  
+Program name:    HI03M61C  
+Comment:         3kg HSCD high-pa
+Program size:    4999 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\H863\HI03M61C.PC
+Allocated size:  5619 bytes
+Protection:      ON
+Stack size:      400 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        43074
+
+HIGHM61C      PC    
+Task: no   
+Size: 4725  
+Vars:     8  
+Types:     0  
+Program name:    HIGHM61C  
+Comment:         HSCD high-payloa
+Program size:    4725 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\H863\HIGHM61C.PC
+Allocated size:  5345 bytes
+Protection:      ON
+Stack size:      400 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        46370
+
+HOME_IO       TP    
+Task: no   
+Size: 1006  
+Lines:   38  
+Program name:    HOME_IO  
+Comment:         SET AT HOME I-O
+Program size:    1006 bytes
+Created time:    25-AUG-06 10:52 
+Last modified:   25-AUG-06 10:52 
+Allocated size:  1350 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        60
+Time slice:      0
+Busy lamp:       1
+Ignore abort:    7
+Ignore pause:    3
+
+HTCOLREC      VR    
+Task: no   
+Size:    0  
+Vars:     4  
+Types:     0  
+Program name:    HTCOLREC  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  240 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+HTTPKCL       VR    
+Task: no   
+Size:    0  
+Vars:     8  
+Types:     0  
+Program name:    HTTPKCL  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  240 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+M10SET03      PC    
+Task: no   
+Size: 16300  
+Vars:     8  
+Types:     0  
+Program name:    M10SET03  
+Comment:         3kg payload
+Program size:    16300 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\H863\M10SET03.PC
+Allocated size:  16944 bytes
+Protection:      ON
+Stack size:      400 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        20827
+
+M10SET06      PC    
+Task: no   
+Size: 16303  
+Vars:     8  
+Types:     0  
+Program name:    M10SET06  
+Comment:         6kg payload
+Program size:    16303 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\H863\M10SET06.PC
+Allocated size:  16947 bytes
+Protection:      ON
+Stack size:      400 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        11510
+
+M10SET10      PC    
+Task: no   
+Size: 16331  
+Vars:     8  
+Types:     0  
+Program name:    M10SET10  
+Comment:         10kg payload
+Program size:    16331 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\H863\M10SET10.PC
+Allocated size:  16975 bytes
+Protection:      ON
+Stack size:      400 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        29335
+
+MEM_PORT      PC    
+Task: no   
+Size: 1246  
+Vars:     2  
+Types:     0  
+Program name:    MEM_PORT  
+Comment:         
+Program size:    1246 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\J775\MEM_PORT.PC
+Allocated size:  1555 bytes
+Protection:      OFF
+Stack size:      300 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+Checksum:        55962
+
+MULTIROBOTTASK  TP    
+Task: yes  
+Size: 2023  
+Lines:   49  
+Program name:    MULTIROBOTTASK  
+Comment:         
+Program size:    2023 bytes
+Created time:    10-FEB-20 17:37 
+Last modified:   10-FEB-20 18:16 
+Allocated size:  2323 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+NO03M61C      PC    
+Task: no   
+Size: 4993  
+Vars:     8  
+Types:     0  
+Program name:    NO03M61C  
+Comment:         3kg normal HSCD
+Program size:    4993 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\H863\NO03M61C.PC
+Allocated size:  5613 bytes
+Protection:      ON
+Stack size:      400 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        32315
+
+NORMM61C      PC    
+Task: no   
+Size: 4719  
+Vars:     8  
+Types:     0  
+Program name:    NORMM61C  
+Comment:         normal HSCD
+Program size:    4719 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\H863\NORMM61C.PC
+Allocated size:  5339 bytes
+Protection:      ON
+Stack size:      400 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        12246
+
+NTDAQ         VR    
+Task: no   
+Size:    0  
+Vars:     1  
+Types:     0  
+Program name:    NTDAQ  
+Comment:         
+Program size:    0 bytes
+Created time:    00-0-80 00:00   
+Last modified:   00-0-80 00:00   
+Allocated size:  240 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        0
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+OTEMGMON      PC    
+Task: no   
+Size: 3166  
+Vars:     5  
+Types:     0  
+Program name:    OTEMGMON  
+Comment:         EMG Mon V1.1
+Program size:    3166 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\DIAGSTND\OTEMGMON.PC
+Allocated size:  3479 bytes
+Protection:      ON
+Stack size:      300 words
+Priority:        50
+Time slice:      256
+Busy lamp:       1
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        12443
+
+OTEMGRUN      PC    
+Task: no   
+Size:  179  
+Vars:     1  
+Types:     0  
+Program name:    OTEMGRUN  
+Comment:         EMG Mon V1.1
+Program size:    179 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\DIAGSTND\OTEMGRUN.PC
+Allocated size:  500 bytes
+Protection:      ON
+Stack size:      300 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    3
+Ignore pause:    7
+Checksum:        7724
+
+PRO_MOV2      TP    
+Task: no   
+Size:  469  
+Lines:    3  
+Program name:    PRO_MOV2  
+Comment:         SimPRO Internal 
+Program size:    469 bytes
+Created time:    10-FEB-20 17:42 
+Last modified:   10-FEB-20 17:42 
+Allocated size:  825 bytes
+Protection:      OFF
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+REQMENU       MACRO 
+Task: no   
+Size:  262  
+Lines:    2  
+Program name:    REQMENU  
+Comment:         Request PC Menu
+Program size:    262 bytes
+Created time:    14-OCT-10 11:46 
+Last modified:   01-JUN-99 14:22 
+Source file:     SENDDATA
+Allocated size:  630 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+SENDDATA      MACRO 
+Task: no   
+Size:  288  
+Lines:    2  
+Program name:    SENDDATA  
+Comment:         Send PC Data
+Program size:    288 bytes
+Created time:    09-OCT-10 13:30 
+Last modified:   01-JUN-99 14:22 
+Source file:     SENDEVNT
+Allocated size:  656 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+SENDEVNT      MACRO 
+Task: no   
+Size:  224  
+Lines:    2  
+Program name:    SENDEVNT  
+Comment:         Send PC Event
+Program size:    224 bytes
+Created time:    09-OCT-10 12:23 
+Last modified:   01-JUN-99 14:22 
+Allocated size:  592 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+SENDSYSV      MACRO 
+Task: no   
+Size:  274  
+Lines:    2  
+Program name:    SENDSYSV  
+Comment:         Send PC SysVar
+Program size:    274 bytes
+Created time:    14-OCT-10 11:56 
+Last modified:   01-JUN-99 14:23 
+Source file:     SENDDATA
+Allocated size:  642 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+TPREC         TP    
+Task: no   
+Size:  215  
+Lines:    1  
+Program name:    TPREC  
+Comment:         TP Rec And Save 
+Program size:    215 bytes
+Created time:    10-MAR-08 11:33 
+Last modified:   14-MAR-08 21:35 
+Allocated size:  587 bytes
+Protection:      ON
+Stack size:      0 words
+Priority:        50
+Time slice:      0
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+
+TPRECKL       PC    
+Task: no   
+Size:  846  
+Vars:    12  
+Types:     0  
+Program name:    TPRECKL  
+Comment:         tprec V1.3
+Program size:    846 bytes
+Created time:    10-MAY-20 08:50 
+Last modified:   10-MAY-20 08:50 
+Source file:     PRODUCT\DIAGSTND\TPRECKL.PC
+Allocated size:  1261 bytes
+Protection:      ON
+Stack size:      300 words
+Priority:        50
+Time slice:      256
+Busy lamp:       0
+Ignore abort:    0
+Ignore pause:    0
+Checksum:        42949
+

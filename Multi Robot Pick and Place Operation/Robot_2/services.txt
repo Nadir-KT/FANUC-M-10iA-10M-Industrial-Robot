@@ -1,14 +1,15 @@
-RPCMAIN                   : 1822
+RPCMAIN                   : 12038
 Teach Pendant             : 9104
 FTP                       : 9125
 CGTP Web Server           : 9000
 TP_INPUT Server           : 60005
-Robot Discovery Method    : 60008
+Robot Discovery Method    : 60009
 Web Server                : 9001
 KCL                       : 9106
 Console/SMON              : 9105
 Cimplicity Server         : 9020
 Robot IF Server           : 9021
-ROBOGUIDE (pid)           : 4176
-Robot Server (pid)        : 2448
-Virtual Robot (pid)       : 2076
+ROBOGUIDE (pid)           : 9156
+Virtual Robot (pid)       : 8736
+Robot Server (pid)        : 8776
+Robot Server HostName     : 127.0.0.1:12038

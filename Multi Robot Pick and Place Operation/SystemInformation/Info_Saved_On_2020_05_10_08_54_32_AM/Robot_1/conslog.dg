@@ -1,0 +1,1589 @@
+Memory Allocation Address for retained CMOS = 40500000
+Loading ROS task DLLs
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\SYIN.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\KSMON.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\SYNTITP.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\NTSERV.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\OSPPSERV.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\OSPPCONS.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\NTPORT.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\ERLOG.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\MMMEMO.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\MMMPTC.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\VMMAIN.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\VMPVAR.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\VMUTIL.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\FRSY.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\DOSFILE2.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\CHND.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\CHIF.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\SYTIMQUE.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\PMGR.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\PGPX.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\APAX.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\APAMGR.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\MGMMGR.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\MPPLAN.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\MIINTR.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\MFFLTR.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\STPMPT.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\STSRIF.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\OSTCHP.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\OSTKEY.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\TPMAIN.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\WDVD.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\WDWM.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\WDKY.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\MJOG.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\IOSCAN.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\SYSHELL.DLL
+Loading C:\Program Files (x86)\FANUC\Shared\Off Line\FRVRC\V7.50\bin\DRASKER.DLL
+[ntinit] Current locale is C
+[ntinit] Set locale to English_United States.1252
+Switching states: old = STARTUP   new = STARTUP 
+[NTINIT] Frequency 10000000, Ticks/ms 10000 BusClock 40000000
+[IEWTQ] Count = 0 add to head/tail task: 199  cnt: 24  pri: 10
+[osppc] Virtual Clock timer device resolution discovery suceeded, min res: 1 ms
+[NTPORT] Ready for connections at 9100
+[NTPORT] Ready for connections at 9101
+[NTPORT] Ready for connections at 9102
+[NTPORT] Ready for connections at 9103
+[OSSERV] VIRTUAL not doing multi-processing service
+main bus clock 40
+main PCB version 4
+[ostkinit] TPWDOG_CHK $0
+ 
+[DSFL] No cache/B:\OS st=255
+[DSFL] No cache/B:\OS st=255
+[DSFL] No cache/B:\OS st=255
+[DSFL] MAIN V7.20 PCMCIA-ATA RD@0x0 (0) dfdevtbl@0x2D736511
+[ksinitsk] syin continues
+Updated $MC_PATH = C:\MULTIR~1\Robot_1\mc
+Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V7.50
+Updated $UD1_PATH to = 
+Updated $UD2_PATH to = 
+[syinit] bootrom time: 281464 ms
+[syinit] ** INITIAL START **
+[syinit] System Version V7.50130      3/19/2015
+[ERLOG] Waiting for UIF to start up
+[syinisb0]VIRTUAL case,setting master_p->initializing to FALSE
+[DSFL] Fat type check Failed: 0x100006
+[ostkinit] ID $31 type 1D baud 31 version I
+[ostkinit] TP Baud Rate 19200
+[NTPORT] accept connection
+[syinit] ** INITIAL START **
+[ostkinit] TPWDOG_CHK+2 $1000
+[dpinit] setting cur lang to NULL
+[dpsetlng] setting cur lang to DEFAULT     
+[tppascon_config] wait for EVB_SPINITDONE
+[SYINISB0] Delete MEMO, VMGR, and DICT files ... 
+[sycfgmen] alloc cfgmenu_t @ 0x406F758C
+[sycfgmen] cfgmenu_p 0x406F758C
+[syinisb0] tpid check ltp = 0x5C71460, tpid = 49
+[NTSYIN_STEP] Startup Step #1
+VMGR for R-J3iC V7.20
+[vmshadow_periodic] Normal power shutdown state = 0
+[vminit_loadctx] Loading all files
+[vminit_loadctx] Done Loading Time = 8928us
+[NTSYIN_STEP] Startup Step #2
+[syinisb0] $device set to PATH:
+BMON =config\\
+[syinisb0] running @MED:autoinit.com
+[SPRUNCMDF] status = 2000E; "ADDUPLOG MED:\00\TEMP\TEMP_MEMORY_STAT.DG" : FRS:\UPDTLOG.LS
+[spruncmdf] +++ no abort
+[SPRUNCMDF] status = 2000E; "DEL MED:\00\TEMP\TEMP_MEMORY_STAT.DG" : FRS:\UPDTLOG.LS
+[spruncmdf] +++ no abort
+[SPRUNCMDF] status = 2000E; "  FRCOPY MED:\core6\DCSVRFY.BIN FRS:DCSVRFY.BIN" : MED:\00\TEMP\FRSDT\*.DT
+[spruncmdf] +++ no abort
+[SPRUNCMDF] status = 2000E; "  FRCOPY MED:\core6\DCSDEFS.BIN FRS:DCSDEFS.BIN" : MED:\00\TEMP\FRSDT\*.DT
+[spruncmdf] +++ no abort
+[sycopsys] running @MED:init1
+"init1.com for V7.50P/28 (FD V7.50.04)"
+"Checking Language"
+"Checking Tool"
+"Checking Robot Library"
+"Checking H521 (English Dictionary) "
+"Checking H510 (Kernel + Basic S/W) "
+"Checking CMSP (Common softpanel) "
+"Checking J517 (Program Adjust) "
+"Checking J539 (KAREL Run-Time Env) "
+"Checking PRST (Program Status) "
+"Checking CLIO (Cell I/O) "
+"Checking MASK (Group Mask Exchange) "
+"Checking J542 (I/O Interconnect 2) "
+"Checking J520 (TCP Auto Set) "
+"Checking CNRE (Control Reliable) "
+"Checking MDSW (Mode Switch) "
+"Checking R651 (FRL Params) "
+"Checking H930 (Robot Servo Code) "
+"Checking J507 (Print Function) "
+"Checking J510 (Incr Instruction) "
+"Checking J513 (Hour Meter) "
+"Checking J514 (Position Registers) "
+"Checking J516 (FCTN Menu Save) "
+"Checking R645 (Common shell) "
+"Checking SEND (PC Send Macros) "
+"Checking R631 (Data Acquisition) "
+"Checking J503 (MACROs, Skip/Offset) "
+"Checking J505 (Program Shift) "
+"Checking SMLB (Shift and Mirror Lib) "
+"Checking SHLB (Shift Library) "
+"Checking J506 (Mirror Shift) "
+"Checking J509 (Tool Offset) "
+"Checking J616 (Background Editing) "
+"Checking J604 (Enhanced User Frame) "
+"Checking UFRM (User Frame) "
+"Checking J716 (FTP Interface) "
+"Checking HTCP (TCP/IP Interface) "
+"Checking HOCO (Host Communications) "
+"Checking FRDM (RDM Robot Discovery) "
+"Checking TELN (Telnet Interface) "
+"Checking HTTP (Web Server) "
+"Checking TMIL (TMILIB Interface) "
+"Checking J650 (KAREL Cmd. Language) "
+"Checking EIOC (Ext. DIO Config) "
+"Checking TPAC (TP Menu Accounting) "
+"Checking CGTP (iPendant) "
+"Checking TPTX (TPTX) "
+"Checking IGUI (iPendant Grid Display) "
+"Checking IPGS (iPendant Setup) "
+"Checking ESET (External DI BWD) "
+"Checking J627 (High-Speed Skip) "
+"Checking J628 (Condition Monitor) "
+"Checking OPLG (LogBook(System)) "
+"Checking R637 (Motion logger) "
+"Checking DCSU (Dual Check Safety UIF) "
+"Checking J545 (Automatic Backup) "
+"Checking SNBA (SNPX basic) "
+"Checking LCHK (License Checker) "
+"Checking UECK (Unexcepted motn Check) "
+"Checking H550 (Analog I/O) "
+"Checking J600 (Multi-Tasking) "
+"Checking ATUP (Auto Software Update) "
+"Checking J554 (Mixed logic) "
+"Checking J515 (Prog Num Selection) "
+"Checking R542 (Extended Error Log) "
+"Checking AAVM (AA Vision Mastering) "
+"Checking VCOR (Vision Core) "
+"Checking R626 (Web Svr Enhancements) "
+"Checking VIPL (Vision Library) "
+"Checking CSXC (Vision SP CSXC) "
+"Checking VCAM (Camera I/F) "
+"Checking CVVF (Vision Shift Tool) "
+"Checking SPVC (Soft Parts in VCCM) "
+"Checking MCSP (MechStop Protection) "
+"Checking RSCH (Diagnostic log) "
+"Checking MDCO (Motion Diag. Core) "
+"Checking R663 (Constant Path) "
+"Checking R507 (Ascii Upload) "
+"Checking MHCR (MH Core) "
+"Checking R696 (Extended User Frames) "
+"Checking J541 (Password Protection) "
+"Checking J609 (Space Check) "
+"Checking ETSS (SSPC error text) "
+"Checking J770 (IntelligentTP PC I/F) "
+"Checking R641 (PC Interface) "
+"Checking R636 (Socket Messaging) "
+"Checking J775 (YELLOW BOX) "
+"Checking PRXY (HTTP Proxy Svr) "
+"Checking IPNL (istdpnl) "
+"Checking R553 (HMI Device (SNPX)) "
+"Checking R680 (Enhanced T1 Mode) "
+"Checking J885 (JPN ARCPSU PRM) "
+"Checking R666 (Arc Advisor) "
+"Checking R528 (Disp 2nd analog port) "
+"Checking TCPE (TCPP Extention) "
+"Checking H863 (M-10iA(B201 B202)) "
+"Checking FVRC (Virtual Robot) "
+"Checking OLSP (OLPC Support files) "
+"Checking R534 (Collision Guard) "
+"Checking J684 (Collision Guard Pack) "
+"Checking J523 (Cycle Time Priority) "
+"Checking RVAT (Uneven Auto Tuning) "
+"Checking CMSC (Common shell core) "
+"Checking STYL (Common style select) "
+"Checking SRSR (Robot Service Request) "
+"Checking ORSR (Enhanced Rob Serv Req) "
+"Checking RLCM (Robot Library Setup) "
+"Checking CTOP (Cycle time Opt.) "
+"Checking AWSM (ArcWeldSpecialMotion) "
+"Checking H552 (HandlingTool) "
+"Configuration is Valid"
+"Default Language is ENGLISH
+"Copying System Files"
+"Copying H521 (English Dictionary) "
+"Copying H510 (Kernel + Basic S/W) "
+[spflload] Ignore 'FRSY-008 file already exists' frcopy PRODUCT\H510\ROBINIT.PC FRS:ROBINIT.PC
+"Copying CMSP (Common softpanel) "
+"Copying J517 (Program Adjust) "
+"Copying J539 (KAREL Run-Time Env) "
+"Copying PRST (Program Status) "
+"Copying CLIO (Cell I/O) "
+"Copying MASK (Group Mask Exchange) "
+"Copying J542 (I/O Interconnect 2) "
+"Copying J520 (TCP Auto Set) "
+"Copying CNRE (Control Reliable) "
+"Copying MDSW (Mode Switch) "
+"Copying R651 (FRL Params) "
+"Copying H930 (Robot Servo Code) "
+"Copying J507 (Print Function) "
+"Copying J510 (Incr Instruction) "
+"Copying J513 (Hour Meter) "
+"Copying J514 (Position Registers) "
+"Copying J516 (FCTN Menu Save) "
+"Copying R645 (Common shell) "
+"Copying SEND (PC Send Macros) "
+"Copying R631 (Data Acquisition) "
+"Copying J503 (MACROs, Skip/Offset) "
+"Copying J505 (Program Shift) "
+"Copying SMLB (Shift and Mirror Lib) "
+"Copying SHLB (Shift Library) "
+"Copying J506 (Mirror Shift) "
+"Copying J509 (Tool Offset) "
+"Copying J616 (Background Editing) "
+"Copying J604 (Enhanced User Frame) "
+"Copying UFRM (User Frame) "
+"Copying J716 (FTP Interface) "
+"Copying HTCP (TCP/IP Interface) "
+"Copying HOCO (Host Communications) "
+"Copying FRDM (RDM Robot Discovery) "
+"Copying TELN (Telnet Interface) "
+"Copying HTTP (Web Server) "
+"Copying TMIL (TMILIB Interface) "
+"Copying J650 (KAREL Cmd. Language) "
+"Copying EIOC (Ext. DIO Config) "
+"Copying TPAC (TP Menu Accounting) "
+"Copying CGTP (iPendant) "
+"Copying TPTX (TPTX) "
+"Copying IGUI (iPendant Grid Display) "
+"Copying IPGS (iPendant Setup) "
+"Copying ESET (External DI BWD) "
+"Copying J627 (High-Speed Skip) "
+"Copying J628 (Condition Monitor) "
+"Copying OPLG (LogBook(System)) "
+"Copying R637 (Motion logger) "
+"Copying DCSU (Dual Check Safety UIF) "
+"Copying J545 (Automatic Backup) "
+"Copying SNBA (SNPX basic) "
+"Copying LCHK (License Checker) "
+"Copying UECK (Unexcepted motn Check) "
+"Copying H550 (Analog I/O) "
+"Copying J600 (Multi-Tasking) "
+"Copying ATUP (Auto Software Update) "
+"Copying J554 (Mixed logic) "
+"Copying J515 (Prog Num Selection) "
+"Copying R542 (Extended Error Log) "
+"Copying AAVM (AA Vision Mastering) "
+"Copying VCOR (Vision Core) "
+"Copying R626 (Web Svr Enhancements) "
+"Copying VIPL (Vision Library) "
+"Copying CSXC (Vision SP CSXC) "
+"Copying VCAM (Camera I/F) "
+"Copying CVVF (Vision Shift Tool) "
+"Copying SPVC (Soft Parts in VCCM) "
+"Copying MCSP (MechStop Protection) "
+"Copying RSCH (Diagnostic log) "
+"Copying MDCO (Motion Diag. Core) "
+"Copying R663 (Constant Path) "
+"Copying R507 (Ascii Upload) "
+"Copying MHCR (MH Core) "
+"Copying R696 (Extended User Frames) "
+"Copying J541 (Password Protection) "
+"Copying J609 (Space Check) "
+"Copying ETSS (SSPC error text) "
+"Copying J770 (IntelligentTP PC I/F) "
+"Copying R641 (PC Interface) "
+"Copying R636 (Socket Messaging) "
+"Copying J775 (YELLOW BOX) "
+"Copying PRXY (HTTP Proxy Svr) "
+"Copying IPNL (istdpnl) "
+"Copying R553 (HMI Device (SNPX)) "
+"Copying R680 (Enhanced T1 Mode) "
+"Copying J885 (JPN ARCPSU PRM) "
+"Copying R666 (Arc Advisor) "
+"Copying R528 (Disp 2nd analog port) "
+"Copying TCPE (TCPP Extention) "
+"Copying H863 (M-10iA(B201 B202)) "
+[spflload] Ignore 'FRSY-008 file already exists' frcopy PRODUCT\H863\H863.DT FRSU:M61C.DT
+"Copying FVRC (Virtual Robot) "
+"Copying OLSP (OLPC Support files) "
+"Copying R534 (Collision Guard) "
+"Copying J684 (Collision Guard Pack) "
+"Copying J523 (Cycle Time Priority) "
+"Copying RVAT (Uneven Auto Tuning) "
+"Copying CMSC (Common shell core) "
+"Copying STYL (Common style select) "
+"Copying SRSR (Robot Service Request) "
+"Copying ORSR (Enhanced Rob Serv Req) "
+"Copying RLCM (Robot Library Setup) "
+"Copying CTOP (Cycle time Opt.) "
+"Copying AWSM (ArcWeldSpecialMotion) "
+"Copying H552 (HandlingTool) "
+"init1cus.com complete"
+"init1.com complete"
+" Media check Passes..."
+[DSFL] Fat type check Failed: 0x100006
+[NTFRCPY] Did not load \TMILIB.DLL
+[NTSYIN_STEP] Startup Step #3
+[dpimage_restctx] Loading  dictionaries pool_avail = 32386600
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 0 Time 0ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 32386600
+[NTSYIN_STEP] Startup Step #4
+[SYINISB0] Loading main system softparts please wait ...
+[NTFRCPY] Did not load \SMUSB.DLL
+[NTFRCPY] Did not load \DCSTSK.DLL
+[NTFRCPY] Did not load \TPATBTSK.DLL
+[NTFRCPY] Did not load \UECK.DLL
+[NTFRCPY] Did not load \VSMO.DLL
+[NTFRCPY] Did not load \YBOX.DLL
+[NTFRCPY] Did not load \SFMRVAT.DLL
+[SYSINISB0] spspload reference time 44355 ms, This Time 276ms
+[NTSYIN_STEP] Startup Step #5
+[SYINISB)] total time 4974
+[NTSYIN_STEP] Startup Step #6
+[NTSYIN_STEP] Startup Step #7
+[SYINISUB] Saving user device PATH:
+Updated $CUSTO_PATH to = 
+[syinisub] RTC 50AA462D 50AA462D check1 0 0 
+[SYINISUB] RTC not initialzed -- RESETTING to 0
+[NTSYIN_STEP] Startup Step #8
+[NTSYIN_STEP] Startup Step #9
+[syinit] : calling iosetup
+[iospcall] Error !!!! stat:100006 fc:A0001 idx:5
+[NTSYIN_STEP] Startup Step #10
+[NTSYIN_STEP] Startup Step #11
+syinit - mmmakmem size = $AF000, stat = $0
+[syinisub] Memory manager started
+MEMO for R-J3iC Version V7.50 Rev-0
+[NTSYIN_STEP] Startup Step #12
+[NTSYIN_STEP] Startup Step #13
+[NTSYIN_STEP] Startup Step #14
+"init2.com for V7.50P/28 (FD V7.50.04)"
+"Loading H510 (Kernel + Basic S/W, Part I) "
+[VMLOAD] NO SAVE VAR =$FAST_CLOCK not loaded
+[VMLOAD] NO SAVE VAR =$FILE_MAXSEC not loaded
+[vmiloadf] $GROUP created by PRODUCT\H510\SYSDEF.SV
+[VMLOAD] NO SAVE VAR =$NULL_CYCLE not loaded
+[VMLOAD] NO SAVE VAR =$STARTUP_DBG not loaded
+[VMLOAD] NO SAVE VAR =$SYS_CONFIG not loaded
+[VMLOAD] NO SAVE VAR =$TICK_RATE not loaded
+[VMLOAD] NO SAVE VAR =VPR not loaded
+"Loading J517 (Program Adjust, Part I) "
+"Loading J539 (KAREL Run-Time Env, Part I) "
+"Loading CLIO (Cell I/O, Part I) "
+"Loading CNRE (Control Reliable, Part I) "
+"Loading MDSW (Mode Switch, Part I) "
+"Loading J513 (Hour Meter, Part I) "
+"Loading R631 (Data Acquisition, Part I) "
+"Loading J503 (MACROs, Skip/Offset, Part I) "
+"Loading J616 (Background Editing, Part I) "
+"Loading UFRM (User Frame, Part I) "
+"Loading J716 (FTP Interface, Part I) "
+"Loading HOCO (Host Communications, Part I) "
+"Loading FRDM (RDM Robot Discovery, Part I) "
+"Loading TELN (Telnet Interface, Part I) "
+"Loading HTTP (Web Server, Part I) "
+"Loading TPTX (TPTX, Part I) "
+"Loading ESET (External DI BWD, Part I) "
+"Loading J627 (High-Speed Skip, Part I) "
+"Loading J628 (Condition Monitor, Part I) "
+"Loading OPLG (LogBook(System), Part I) "
+"Loading R637 (Motion logger, Part I) "
+"Loading DCSU (Dual Check Safety UIF, Part I) "
+"Loading J545 (Automatic Backup, Part I) "
+"Loading SNBA (SNPX basic, Part I) "
+"Loading LCHK (License Checker, Part I) "
+"Loading UECK (Unexcepted motn Check, Part I) "
+"Loading J554 (Mixed logic, Part I) "
+"Loading J515 (Prog Num Selection, Part I) "
+"Loading R542 (Extended Error Log, Part I) "
+"Loading AAVM (AA Vision Mastering, Part I) "
+"Loading VCOR (Vision Core, Part I) "
+"Loading R626 (Web Svr Enhancements, Part I) "
+"Loading MCSP (MechStop Protection, Part I) "
+"Loading RSCH (Diagnostic log, Part I) "
+"Loading MDCO (Motion Diag. Core, Part I) "
+"Loading R663 (Constant Path, Part I) "
+"Loading R507 (Ascii Upload, Part I) "
+"Loading MHCR (MH Core, Part I) "
+"Loading J609 (Space Check, Part I) "
+"Loading J775 (YELLOW BOX, Part I) "
+"Loading PRXY (HTTP Proxy Svr, Part I) "
+"Loading R680 (Enhanced T1 Mode, Part I) "
+"Loading R666 (Arc Advisor, Part I) "
+"Loading TCPE (TCPP Extention, Part I) "
+"Loading H863 (M-10iA(B201 B202), Part I) "
+"Loading FVRC (Virtual Robot, Part I) "
+"Loading R534 (Collision Guard, Part I) "
+"Loading J523 (Cycle Time Priority, Part I) "
+"Loading RVAT (Uneven Auto Tuning, Part I) "
+"Loading CMSC (Common shell core, Part I) "
+"Loading STYL (Common style select, Part I) "
+"Loading ORSR (Enhanced Rob Serv Req, Part I) "
+"Loading CTOP (Cycle time Opt., Part I) "
+"Loading AWSM (ArcWeldSpecialMotion, Part I) "
+"Loading H510 (Kernel + Basic S/W, Part II) "
+[PGPCLOAD] Creating system variable $UMR from PATH:PRODUCT\H510\TPCTRLMN.PC!!
+"Loading CMSP (Common softpanel, Part II) "
+"Loading J517 (Program Adjust, Part II) "
+"Loading J539 (KAREL Run-Time Env, Part II) "
+"Loading PRST (Program Status, Part II) "
+"Loading CLIO (Cell I/O, Part II) "
+"Loading MASK (Group Mask Exchange, Part II) "
+"Loading J520 (TCP Auto Set, Part II) "
+"Loading CNRE (Control Reliable, Part II) "
+"Loading R651 (FRL Params, Part II) "
+"Loading J507 (Print Function, Part II) "
+"Loading J510 (Incr Instruction, Part II) "
+"Loading J513 (Hour Meter, Part II) "
+"Loading J514 (Position Registers, Part II) "
+"Loading J516 (FCTN Menu Save, Part II) "
+"Loading SEND (PC Send Macros, Part II) "
+"Loading R631 (Data Acquisition, Part II) "
+"Loading J503 (MACROs, Skip/Offset, Part II) "
+"Loading J505 (Program Shift, Part II) "
+"Loading SHLB (Shift Library, Part II) "
+"Loading J506 (Mirror Shift, Part II) "
+"Loading J509 (Tool Offset, Part II) "
+"Loading J604 (Enhanced User Frame, Part II) "
+"Loading J716 (FTP Interface, Part II) "
+"Loading HTCP (TCP/IP Interface, Part II) "
+"Loading HOCO (Host Communications, Part II) "
+"Loading TELN (Telnet Interface, Part II) "
+"Loading HTTP (Web Server, Part II) "
+"Loading J650 (KAREL Cmd. Language, Part II) "
+"Loading CGTP (iPendant, Part II) "
+"Loading TPTX (TPTX, Part II) "
+"Loading IPGS (iPendant Setup, Part II) "
+"Loading J627 (High-Speed Skip, Part II) "
+"Loading J628 (Condition Monitor, Part II) "
+"Loading OPLG (LogBook(System), Part II) "
+"Loading DCSU (Dual Check Safety UIF, Part II) "
+"Loading J545 (Automatic Backup, Part II) "
+"Loading LCHK (License Checker, Part II) "
+"Loading H550 (Analog I/O, Part II) "
+"Loading J600 (Multi-Tasking, Part II) "
+"Loading J554 (Mixed logic, Part II) "
+"Loading R542 (Extended Error Log, Part II) "
+"Loading AAVM (AA Vision Mastering, Part II) "
+"Loading VCOR (Vision Core, Part II) "
+"Loading R626 (Web Svr Enhancements, Part II) "
+"Loading VIPL (Vision Library, Part II) "
+"Loading VCAM (Camera I/F, Part II) "
+"Loading MDCO (Motion Diag. Core, Part II) "
+"Loading R663 (Constant Path, Part II) "
+"Loading R507 (Ascii Upload, Part II) "
+"Loading MHCR (MH Core, Part II) "
+"Loading J609 (Space Check, Part II) "
+"Loading ETSS (SSPC error text, Part II) "
+"Loading R641 (PC Interface, Part II) "
+"Loading R636 (Socket Messaging, Part II) "
+"Loading J775 (YELLOW BOX, Part II) "
+"Loading PRXY (HTTP Proxy Svr, Part II) "
+"Loading IPNL (istdpnl, Part II) "
+"Loading J885 (JPN ARCPSU PRM, Part II) "
+"Loading R666 (Arc Advisor, Part II) "
+"Loading H863 (M-10iA(B201 B202), Part II) "
+"Loading FVRC (Virtual Robot, Part II) "
+"Loading R534 (Collision Guard, Part II) "
+"Loading J684 (Collision Guard Pack, Part II) "
+"Loading J523 (Cycle Time Priority, Part II) "
+"Loading RVAT (Uneven Auto Tuning, Part II) "
+"Loading CMSC (Common shell core, Part II) "
+"Loading STYL (Common style select, Part II) "
+"Loading SRSR (Robot Service Request, Part II) "
+"Loading H552 (HandlingTool, Part II) "
+"init2cus.com complete"
+"init2.com complete"
+[NTSYIN_STEP] Startup Step #15
+[NTSYIN_STEP] Startup Step #16
+[NTSYIN_STEP] Startup Step #17
+[syinit] mosetvpr status <0>
+[NTSYIN_STEP] Startup Step #18
+[NTSYIN_STEP] Startup Step #19
+[ERLOG] continue stat = 0x0
+[NTSYIN_STEP] Startup Step #20
+[syinisub] VMGR called to register program with MEMO
+sizeof(DCS_SRAM_PRM_T):0x428, DCS_SRAM_PRM_SIZE:0x1000
+sizeof(DCS_FROM_PRM_T):0xA5DC, DCS_FROM_PRM_SIZE:0xC000
+sizeof(DCS_WORK_T):0x2CEB0, DCS_WORK_SIZE:0x30000
+file creation OK:246411584
+file creation OK:246411584
+  [load_safety_param(MAIN)]load_address:0x11FE8000, size:0xA5DC
+[NTSYIN_STEP] Startup Step #21
+[NTSYIN_STEP] Startup Step #22
+[NTSYIN_STEP] Startup Step #23
+[NTSYIN_STEP] Startup Step #24
+[NTSYIN_STEP] Startup Step #25
+[NTSYIN_STEP] Startup Step #26
+[sytimque]: trigger loaded 0
+[NTSYIN_STEP] Startup Step #27
+[CHND] init done. starting scanning
+[NTSYIN_STEP] Startup Step #28
+[NTSYIN_STEP] Startup Step #29
+[NTSYIN_STEP] Startup Step #30
+[NTSYIN_STEP] Startup Step #31
+[NTSYIN_STEP] Startup Step #32
+[sysinisub] Disabling dictionary cache Temp = 1FF142C
+[vminit_restart] Saving variable context
+[SYRESTART] switching modes from 0 to 1
+[pal_reset] Restarting system
+Switching states: old = STARTUP   new = RESTART 
+Tick            Avg: 1.044 ms, Min: 0.002 ms, Max: 4695.968 ms, ticks: 9017
+Execution times Avg: 0.003 ms, Min: 0.001 ms, Max: 0.050 ms
+Switching states: old = RESTART   new = STARTUP 
+[NTINIT] Frequency 10000000, Ticks/ms 10000 BusClock 40000000
+[IEWTQ] Count = 0 add to head/tail task: 199  cnt: 24  pri: 10
+[osppc] Virtual Clock timer device resolution discovery suceeded, min res: 1 ms
+[NTPORT] Ready for connections at 9100
+[NTPORT] Ready for connections at 9101
+[NTPORT] Ready for connections at 9102
+[NTPORT] Ready for connections at 9103
+[OSSERV] VIRTUAL not doing multi-processing service
+main bus clock 40
+main PCB version 4
+[ostkinit] TPWDOG_CHK $0
+ 
+[DSFL] MAIN V7.20 PCMCIA-ATA RD@0x0 (-128) dfdevtbl@0x2D736511
+[ksinitsk] syin continues
+Updated $MC_PATH = C:\MULTIR~1\Robot_1\mc
+Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V7.50
+Updated $UD1_PATH to = C:\MULTIR~1\Robot_1\ud1
+Updated $UD2_PATH to = C:\MULTIR~1\Robot_1\ud2
+[syinit] bootrom time: 290969 ms
+[syinit] ** CONTROLLED START **
+[syinit] System Version V7.50130      3/19/2015
+[ERLOG] Waiting for UIF to start up
+[syinisb0]VIRTUAL case,setting master_p->initializing to FALSE
+[ostkinit] ID $31 type 1D baud 31 version I
+[ostkinit] TP Baud Rate 19200
+[NTPORT] accept connection
+[syinit] ** CONTROLLED START **
+[dpinit] setting cur lang to NULL
+[dpsetlng] setting cur lang to DEFAULT     
+[tppascon_config] wait for EVB_SPINITDONE
+[sycfgmen] cfgmenu_p 0x406F758C
+[ostkinit] TPWDOG_CHK+2 $1000
+[syinisb0] tpid check ltp = 0x5C71460, tpid = 49
+[NTSYIN_STEP] Startup Step #33
+VMGR for R-J3iC V7.20
+[vmshadow_periodic] Normal power shutdown state = 0
+[vminit_loadctx] Loaded FRB:\S-SYSTEM.IRV only
+[vminit_loadctx] Done Loading Time = 41522us
+[NTSYIN_STEP] Startup Step #34
+[NTFRCPY] Did not load \TMILIB.DLL
+[NTSYIN_STEP] Startup Step #35
+[TX] Start
+[PMON] PC Monitor Task
+[rpcm] create TCP/IP RPC service
+[svctcp_create] RPCMAIN Server ready for connections on 3002
+[rpcm] call softparts to register service
+[rpcdaqs] register RPCDAQS service
+[rpcm] wait for connection
+[syinit] spmk2tsk(HTCG), status = $0
+CGTP WEB Server starting
+Web Enhancements installed
+[HTCG]: Binding to tcp port number 3080
+[HTTPD] ready for connections
+[syinisb0] Legacy 2, tpid = 49
+[dpsetlng] setting cur lang to DEFAULT     
+[tppascon_config] wait for EVB_SPINITDONE
+[dpimage_restctx] Loading DEFAULT      dictionaries pool_avail = 30907424
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 222 Time 0ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 30100212
+[dpsetlng] setting cur lang to DEFAULT     
+[tppascon_config] wait for EVB_SPINITDONE
+[NTSYIN_STEP] Startup Step #36
+[SYINISB0] Loading main system softparts please wait ...
+[NTFRCPY] Did not load \DCSTSK.DLL
+[NTFRCPY] Did not load \SFMRVAT.DLL
+[NTFRCPY] Did not load \SMUSB.DLL
+[NTFRCPY] Did not load \TPATBTSK.DLL
+[NTFRCPY] Did not load \UECK.DLL
+[NTFRCPY] Did not load \VSMO.DLL
+[NTFRCPY] Did not load \YBOX.DLL
+[SYSINISB0] spspload reference time 44355 ms, This Time 80ms
+[vminit_loadctx] Loading all files
+[vminit_loadctx] Done Loading Time = 42837us
+[Syin] Mobo start 0xFFFFFFFF
+[NTSYIN_STEP] Startup Step #37
+[SYINISB)] total time 697
+[NTSYIN_STEP] Startup Step #38
+[NTSYIN_STEP] Startup Step #39
+[SYINISUB] Saving user device PATH:
+[syporti]pkt send to TLNT fails 10C
+[NTSYIN_STEP] Startup Step #40
+[ntsyin] VIRTUAL enabling all web options
+[SKMG] Socket Messaging Interface V5.22 @0x2F1012F0
+[TELNET] start
+[TELNET] debug address 2FB11FEC
+[TELNET] Ethernet event flag received.
+[ntsyin] VIRTUAL setting $MSKSIGN=0
+[ntsyin] VIRTUAL setting $MSKCONREL=0
+[ostksock_create] Socket 1412 binding to IP port # 60004
+[ostksock_create] T-X IP address <001.001.001.011>
+[NTSYIN_STEP] Startup Step #41
+[syinit] : calling iosetup
+[ripini] Initializing
+[ripini] SID_RIPSERV task start status = 0x380001
+[NTSYIN_STEP] Startup Step #42
+[NTSYIN_STEP] Startup Step #43
+[syinisub] Memory manager started
+[mmiage_init] TP DRAM Imaging system startup
+MEMO for R-J3iC Version V7.50 Rev-0
+[NTSYIN_STEP] Startup Step #44
+[NTSYIN_STEP] Startup Step #45
+[NTSYIN_STEP] Startup Step #46
+[NTSYIN_STEP] Startup Step #47
+[syinit] mosetvpr status #2<0>
+
+[syinisub] status after vmgetvar #2 = $0
+[NTSYIN_STEP] Startup Step #48
+[NTSYIN_STEP] Startup Step #49
+[syinit] mosetvpr status <0>
+[NTSYIN_STEP] Startup Step #50
+[SMTPXML] SMTP option not loaded
+[NTSYIN_STEP] Startup Step #51
+[ERLOG] continue stat = 0x0
+[NTSYIN_STEP] Startup Step #52
+[syinisub] VMGR called to register program with MEMO
+[NTSYIN_STEP] Startup Step #53
+[NTSYIN_STEP] Startup Step #54
+[NTSYIN_STEP] Startup Step #55
+[NTSYIN_STEP] Startup Step #56
+[NTSYIN_STEP] Startup Step #57
+[NTSYIN_STEP] Startup Step #58
+[sytimque]: trigger loaded 0
+[CHND] Low Priority Condition Handler started.
+[CHND] init done. starting scanning
+[tpmains_start] executing legacy mode case
+[NTSYIN_STEP] Startup Step #59
+[SYINIT] OCTK started 380001
+[NTSYIN_STEP] Startup Step #60
+[NTSYIN_STEP] Startup Step #61
+[sycgtp] LED time = 0 ms
+[sycgtp] EXT time = 0 ms
+[NTSYIN_STEP] Startup Step #62
+"CONTROL1 for V7.50P/28 (FD V7.50.04)"
+"MENU for V7.50P/28 (FD V7.50.04)"
+"MENU complete"
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:swilib.PRV backed up to FRB:swilib.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:swilib.PRV backed up to FRB:swilib.VBK
+[vmimage_bakfile] FRB:swimset.PRV backed up to FRB:swimset.VBK
+[vmimage_bakfile] FRB:swilib.PRV backed up to FRB:swilib.VBK
+[vmimage_bakfile] FRB:swiupdt.PRV backed up to FRB:swiupdt.VBK
+[vdat] wake up
+[vdat] oschggrp(112, 4, 0) 0x00000000
+WEB Server starting
+Web Enhancements installed
+[HTTP]: Binding to tcp port number 80
+[HTTPD] ready for connections
+[ASBN] started
+[vmimage_bakfile] FRB:svparam.PRV backed up to FRB:svparam.VBK
+[vmimage_bakfile] FRB:piparam.PRV backed up to FRB:piparam.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:cpparam.PRV backed up to FRB:cpparam.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+"CONTROL1 complete"
+[NTSYIN] userctrl.com file not found
+[NTSYIN_STEP] Startup Step #63
+[syinit]CONTROL2 gp_made = 1, group = 1, rlibsoc=0
+"CONTROL2 for V7.50P/28 (FD V7.50.04)"
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:muparam.PRV backed up to FRB:muparam.VBK
+[vmimage_bakfile] FRB:smparam.PRV backed up to FRB:smparam.VBK
+[vmimage_bakfile] FRB:tlparam.PRV backed up to FRB:tlparam.VBK
+[vmimage_bakfile] FRB:tjparam.PRV backed up to FRB:tjparam.VBK
+[vmimage_bakfile] FRB:piparam.PRV backed up to FRB:piparam.VBK
+[vmimage_bakfile] FRB:cpparam.PRV backed up to FRB:cpparam.VBK
+[vmimage_bakfile] FRB:dcparam.PRV backed up to FRB:dcparam.VBK
+[vmimage_bakfile] FRB:svparam.PRV backed up to FRB:svparam.VBK
+[vmimage_bakfile] FRB:aaparam.PRV backed up to FRB:aaparam.VBK
+[vmimage_bakfile] FRB:msparam.PRV backed up to FRB:msparam.VBK
+[vmimage_bakfile] FRB:dgparam.PRV backed up to FRB:dgparam.VBK
+[vmimage_bakfile] FRB:swimest.PRV backed up to FRB:swimest.VBK
+"[swilib] [swimest] Check Orderfil Passed "
+OPTN-002 Installed: `iPendant HMI Setup   '                                  
+OPTN-008 Requires: `Filtered Memory Dev. '                                   
+OPTN-002 Installed: `ascbin4psync         '                                  
+OPTN-002 Installed: `RM HELP INCL VIS PKGS'                                  
+OPTN-008 Requires: `DispenseTool         '                                   
+OPTN-002 Installed: `SMB TP Backup        '                                  
+OPTN-002 Installed: `RIPE GET_VAR FIX     '                                  
+OPTN-002 Installed: `FLEXTOOL: ADD R729.FD'                                  
+OPTN-002 Installed: `CVIS ADD EP ADV PKG  '                                  
+OPTN-002 Installed: `CVIS NO WTWTEST LOAD '                                  
+OPTN-002 Installed: `LOAD HELP FOR SELECT '                                  
+OPTN-002 Installed: `FALSE ALARM CPMO-130 '                                  
+OPTN-002 Installed: `MD: HANG FROM INTP   '                                  
+OPTN-002 Installed: `R709 DRAM AVAILCHECKS'                                  
+OPTN-002 Installed: `CVIS VPCS SUPP LIMCHK'                                  
+OPTN-002 Installed: `CVIS VPFF POS DIF FIX'                                  
+OPTN-002 Installed: `8-12 CHARACTER PROGRA'                                  
+OPTN-002 Installed: `SAVE FRAMEVAR.SV     '                                  
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `Speed Ramp           '                                   
+OPTN-008 Requires: `SMB Client           '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `PickTool core        '                                   
+OPTN-002 Installed: `TP Enable NOAM       '                                  
+OPTN-002 Installed: `STRCTURE SHADOW UPDAT'                                  
+OPTN-002 Installed: `RIPE STATICS TOO MUCH'                                  
+OPTN-008 Requires: `Line/Rail Tracking   '                                   
+OPTN-002 Installed: `TIMQ MOTN-003        '                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `ROBOGUIDE DAUGHTER   '                                  
+OPTN-002 Installed: `Disable touch in Edit'                                  
+OPTN-008 Requires: `Standard Color Change'                                   
+OPTN-002 Installed: `PATH NODE MOVETO     '                                  
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-008 Requires: `P-50i Robot Library  '                                   
+OPTN-008 Requires: `ROS Ethernet Packets '                                   
+OPTN-002 Installed: `VMXPACK MAY ASSERT   '                                  
+OPTN-002 Installed: `CYCLE DATA MAY BE COR'                                  
+OPTN-008 Requires: `PickTool core        '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `Vision SP VPEP       '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-002 Installed: `TOO MANY ARC OPTIONS '                                  
+OPTN-008 Requires: `PMC(FAPT Ladder)     '                                   
+OPTN-002 Installed: `APSH-171 fix         '                                  
+OPTN-002 Installed: `SLOW T1 MOTN         '                                  
+OPTN-002 Installed: `GET_POS_TPE fix      '                                  
+OPTN-002 Installed: `jog disable by app wa'                                  
+OPTN-002 Installed: `CVIS VPEP HIST RT FIX'                                  
+OPTN-002 Installed: `MXSPD TB CPMO003     '                                  
+OPTN-002 Installed: `CVIS BARCODE ENHANCE '                                  
+OPTN-002 Installed: `prv save may not work'                                  
+OPTN-002 Installed: `High RIPE traffic fix'                                  
+OPTN-002 Installed: `print from sysvar scr'                                  
+OPTN-008 Requires: `PickTool core        '                                   
+OPTN-008 Requires: `TorchMate            '                                   
+OPTN-008 Requires: `AccuCal2             '                                   
+OPTN-002 Installed: `PROGRAM ADJUST FOR SH'                                  
+OPTN-008 Requires: `PickTool core        '                                   
+OPTN-002 Installed: `RIPE/GETSET ERROR HAN'                                  
+OPTN-002 Installed: `IPENDANT SCREEN UNREA'                                  
+OPTN-008 Requires: `DeviceNet Safety     '                                   
+OPTN-008 Requires: `Weldtip Inspect SW   '                                   
+OPTN-002 Installed: `HANDLE PART CORRECTIO'                                  
+OPTN-008 Requires: `PickTool core        '                                   
+OPTN-002 Installed: `NO FILE BACKGROUND ED'                                  
+OPTN-002 Installed: `CVIS EP PKG INCL SVIP'                                  
+OPTN-002 Installed: `SIX DIGIT VERSIONS   '                                  
+OPTN-002 Installed: `CVIS NEW VERSION P06 '                                  
+OPTN-002 Installed: `IMAGE SAVE LOAD      '                                  
+OPTN-002 Installed: `DISP PROC ISSUE      '                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-008 Requires: `PaintTool Diagnostics'                                   
+OPTN-002 Installed: `REPLAN JOINT DELTA   '                                  
+OPTN-002 Installed: `TP EDIT CALLFROM FIX '                                  
+OPTN-002 Installed: `CVIS FIX IPNDT RT IMG'                                  
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-008 Requires: `PickTool core        '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-008 Requires: `Seal Common          '                                   
+OPTN-002 Installed: `R719 ENHANCEMNT/FIXES'                                  
+OPTN-008 Requires: `DispenseTool         '                                   
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-008 Requires: `Fronius Weld Eq Lib  '                                   
+OPTN-008 Requires: `ArcLink I/O          '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `LR PaintTool (N. A.) '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Line Track Core      '                                   
+OPTN-002 Installed: `Local Hold TIMQ Adjus'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-002 Installed: `PG: CHDELMON can caus'                                  
+OPTN-002 Installed: `CVIS: 3D multi-view d'                                  
+OPTN-008 Requires: `iRVision UIF Controls'                                   
+OPTN-002 Installed: `Increase Number of FD'                                  
+OPTN-002 Installed: `KAREL CANNOT ACCESS M'                                  
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-008 Requires: `Enhanced I/O         '                                   
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-002 Installed: `Robot Settings are lo'                                  
+OPTN-008 Requires: `Wait/Release Comm    '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-008 Requires: `PickTool core        '                                   
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-002 Installed: `FlexTool: Backward mo'                                  
+OPTN-008 Requires: `Standard Color Change'                                   
+OPTN-002 Installed: `PAINT - PaintPRO Repa'                                  
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `J AUTO-T1 CPMO-130   '                                  
+OPTN-008 Requires: `SMB Client           '                                   
+OPTN-008 Requires: `PaintTool Diagnostics'                                   
+OPTN-002 Installed: `CVIS SET VARIABLES TO'                                  
+OPTN-002 Installed: `FPLN:  Support facepl'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `FMD DEVICE ASSERT WIT'                                  
+OPTN-008 Requires: `Common Color Change  '                                   
+OPTN-008 Requires: `Paint Mate 200iA/5L  '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-002 Installed: `Joint Quick Stop FLEN'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-002 Installed: `USB insert & removal '                                  
+OPTN-002 Installed: `Extended Axis FT_JOIN'                                  
+OPTN-008 Requires: `Sgdiag core          '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `CP: fix OS-144 with s'                                  
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-008 Requires: `ArcLink I/O          '                                   
+OPTN-008 Requires: `ArcTool Ramping      '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-002 Installed: `CPPOSTPC CAN CRASH DU'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `LR PaintTool (N. A.) '                                   
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-002 Installed: `$PASSWORD.$AUTOLOGIN '                                  
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-002 Installed: `CP:fix CPMO-046 issue'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `iRVision UIF Controls'                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-002 Installed: `USB: Slow USB stick c'                                  
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-002 Installed: `SELECT FILTERING IMPR'                                  
+OPTN-008 Requires: `iRVision 3DM Comm.   '                                   
+OPTN-008 Requires: `PalletTool Turbo     '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-002 Installed: `SPOT:When viewing STY'                                  
+OPTN-002 Installed: `VMGR LOAD REALLOCATE '                                  
+OPTN-002 Installed: `REMOVE KAREL PROGRAM '                                  
+OPTN-002 Installed: `RIPE:STARTUP MAIN-MAI'                                  
+OPTN-002 Installed: `SE: inpos time over  '                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Opening Devices      '                                   
+OPTN-008 Requires: `Basic Process Axes   '                                   
+OPTN-002 Installed: `USB: memory allocatio'                                  
+OPTN-002 Installed: `CP WAIT Mode 3 CNT0 T'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Basic Process Axes   '                                   
+OPTN-002 Installed: `Wrong alarm is posted'                                  
+OPTN-002 Installed: `Support program touch'                                  
+OPTN-008 Requires: `P-700iA/15           '                                   
+OPTN-008 Requires: `FRA - Waterborne     '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Wait/Release Comm    '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `LR PaintTool (N. A.) '                                   
+OPTN-008 Requires: `Auto SingularityAvoid'                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `SOMETIMES ON STARTUP '                                  
+OPTN-002 Installed: `SREG: Support string '                                  
+OPTN-002 Installed: `SREG: KANJI string no'                                  
+OPTN-008 Requires: `SMB Client           '                                   
+OPTN-002 Installed: `PROGRAM INISITALIZATI'                                  
+OPTN-002 Installed: `Arc weave estop drift'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `ROS Ethernet Packets '                                   
+OPTN-008 Requires: `Ethernet/IP Adapter  '                                   
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `LR PaintTool (N. A.) '                                   
+OPTN-008 Requires: `Weaving              '                                   
+OPTN-008 Requires: `Common Color Change  '                                   
+OPTN-002 Installed: `ASCII Load fails when'                                  
+OPTN-008 Requires: `ROS Ethernet Packets '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-002 Installed: `SYSTEM FILES CAN GET '                                  
+OPTN-008 Requires: `Program ToolBox      '                                   
+OPTN-008 Requires: `Ethernet/IP Adapter  '                                   
+OPTN-002 Installed: `CPMO-014 with Group m'                                  
+OPTN-002 Installed: `Shell: A program cann'                                  
+OPTN-008 Requires: `C-flex UIF           '                                   
+OPTN-002 Installed: `OVERWRITE OF LS FILE '                                  
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-002 Installed: `Fix upgrade-related d'                                  
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-002 Installed: `Switching between IND'                                  
+OPTN-008 Requires: `Opening Devices      '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `TPDRAM DOES NOT HANDL'                                  
+OPTN-008 Requires: `Common Color Change  '                                   
+OPTN-002 Installed: `GigE Interoperability'                                  
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Integral Pump Control'                                   
+OPTN-002 Installed: `HOST: Handle leading '                                  
+OPTN-008 Requires: `C-flex Tray Server   '                                   
+OPTN-008 Requires: `Enhanced I/O         '                                   
+OPTN-002 Installed: `SHADOW PATH SAVE LOOS'                                  
+OPTN-008 Requires: `Integral Pump Control'                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `Password Config - GLA'                                  
+OPTN-008 Requires: `Common Color Change  '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `C-flex Tray Manager  '                                   
+OPTN-002 Installed: `Quick stop CPMO-073  '                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Integral Pump Control'                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Shape Generation II  '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Multi-Arm Core Modul '                                   
+OPTN-008 Requires: `AccuChop             '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `ASBN: If multi-group '                                  
+OPTN-008 Requires: `Standard Color Change'                                   
+OPTN-002 Installed: `DISABLE CPMEMCHK EXCE'                                  
+OPTN-002 Installed: `PIPE PROGRAM CAN BE C'                                  
+OPTN-008 Requires: `LR PaintTool (N. A.) '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `IC Multi-Arm Recovery'                                   
+OPTN-008 Requires: `Wait/Release Comm    '                                   
+OPTN-008 Requires: `Interference Check   '                                   
+OPTN-008 Requires: `LR PaintTool (N. A.) '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `Common Color Change  '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `Gentle Hold for Paint'                                  
+OPTN-008 Requires: `Flex Tool            '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-008 Requires: `LR PaintTool (N. A.) '                                   
+OPTN-008 Requires: `Core PaintTool       '                                   
+OPTN-002 Installed: `CP: False alarm CPMO-'                                  
+OPTN-008 Requires: `MH gripper common    '                                   
+OPTN-002 Installed: `EDIT SCREEN IS CLOSED'                                  
+OPTN-008 Requires: `Vision SP CCRG       '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `InterBus PxC         '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `Vision SP APVO       '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-002 Installed: `ANTIDEFECT UIF FIX   '                                  
+OPTN-008 Requires: `FL-net               '                                   
+OPTN-002 Installed: `PNIO V750 FIX1       '                                  
+OPTN-002 Installed: `FIX LOADING DB SYSVAR'                                  
+OPTN-002 Installed: `FIX EDGE DETECTION   '                                  
+OPTN-002 Installed: `ONLINE HELP BUGFIX   '                                  
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-002 Installed: `CVIS: CAM CALIB FIX  '                                  
+OPTN-008 Requires: `Seal Common          '                                   
+OPTN-002 Installed: `FIX ABC JARKY MOTION '                                  
+OPTN-002 Installed: `MILLIMETER CONVERSION'                                  
+OPTN-002 Installed: `GARBLED STR REG      '                                  
+OPTN-002 Installed: `ALARM TEXT BUG FIX   '                                  
+OPTN-008 Requires: `Seal Common          '                                   
+OPTN-008 Requires: `Servogun diagnosis   '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `iRVision VSIA        '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-002 Installed: `CVIS FREEZE VLOG TASK'                                  
+OPTN-002 Installed: `VP2S MM CONVERSION   '                                  
+OPTN-002 Installed: `FIX TP FREEZE IBPX   '                                  
+OPTN-002 Installed: `FX DB/TB BUSY RUNNING'                                  
+OPTN-002 Installed: `RECORD CALIBRATION LO'                                  
+OPTN-002 Installed: `DIV CALCULATION FIX  '                                  
+OPTN-002 Installed: `FIX FOR BWD RETURN   '                                  
+OPTN-002 Installed: `CONDITION MONITOR FIX'                                  
+OPTN-002 Installed: `VOFS: UNEXP ALARM FIX'                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `FIX FENCE SVEMG ABNML'                                  
+OPTN-008 Requires: `C-flex Environment   '                                   
+OPTN-002 Installed: `DCS CC_SAFEIO ALARM  '                                  
+OPTN-008 Requires: `Vision Training UIF  '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Servo Hand Change    '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `DOT PETTERN BUG      '                                  
+OPTN-002 Installed: `CVIS: IRVISION BUG FI'                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `FANUC ServoGun Change'                                   
+OPTN-008 Requires: `Servo Tool Change    '                                   
+OPTN-008 Requires: `Servo Hand Change    '                                   
+OPTN-002 Installed: `MLOCK CHK WITH GUNCHG'                                  
+OPTN-002 Installed: `MECH COMP FOR GUNTCH '                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `VISION MEMORY LEAK   '                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `CVIS:SPEC CHANGE OF V'                                  
+OPTN-008 Requires: `Initial Setting Load '                                   
+OPTN-008 Requires: `iRCalibration VMaster'                                   
+OPTN-008 Requires: `Initial Setting Load '                                   
+OPTN-008 Requires: `Vision SP CTEP       '                                   
+OPTN-008 Requires: `Vision SP CTPC       '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-002 Installed: `GRID DETECT BUG FIX  '                                  
+OPTN-008 Requires: `DispenseTool         '                                   
+OPTN-008 Requires: `NEMO Pump            '                                   
+OPTN-008 Requires: `Arc Abnormal Monitor '                                   
+OPTN-002 Installed: `CTLN NEW TRAIN MODE  '                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Spot Program Touchup '                                   
+OPTN-008 Requires: `Initial Setting Load '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+[osppc] Timer sync timeout! tid: 34
+OPTN-008 Requires: `FL-net               '                                   
+OPTN-002 Installed: `DISPENSE INST IMPROVE'                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `FIX DCS COUNT3 ALARM '                                  
+OPTN-008 Requires: `Spot Plug-in         '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `STOP PATTERN DISPLAY '                                  
+OPTN-002 Installed: `FIX RECOVERY PROCESS '                                  
+OPTN-008 Requires: `PROFINET I/O         '                                   
+OPTN-008 Requires: `SSG Common           '                                   
+OPTN-002 Installed: `TOUCHUP AND OFFSET   '                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Spot Program Touchup '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `PRODUCTION SUPPORT   '                                  
+OPTN-002 Installed: `IMPROVE TCHUP FUNC   '                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Spot Plug-in         '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `FIX SVGN-158         '                                  
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `Palletizing          '                                   
+OPTN-002 Installed: `RSR IS NOT USABLE    '                                  
+OPTN-002 Installed: `FIX GUNTCHUP FUNCTION'                                  
+OPTN-008 Requires: `Integral Weld Control'                                   
+OPTN-008 Requires: `Spot Plug-in         '                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `Spot Plug-in         '                                   
+OPTN-008 Requires: `Vision SP CCRG       '                                   
+OPTN-002 Installed: `FIX BRKCTRL PROBLEM  '                                  
+OPTN-008 Requires: `InterBus PxC         '                                   
+OPTN-008 Requires: `iRCalibration VMaster'                                   
+OPTN-008 Requires: `Soft Float           '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-002 Installed: `FIX LOADING DB SYSVAR'                                  
+OPTN-002 Installed: `DCS INVALID ZONE     '                                  
+OPTN-002 Installed: `DCS TOOL FRAME FIX   '                                  
+OPTN-002 Installed: `FIX BUSY WITH DUALGUN'                                  
+OPTN-008 Requires: `C-flex Environment   '                                   
+OPTN-002 Installed: `FIX SRVO117 AT STRTUP'                                  
+OPTN-008 Requires: `DCS Pos./Speed check '                                   
+OPTN-002 Installed: `FIX FALSE INTP247    '                                  
+OPTN-008 Requires: `Palletizing          '                                   
+OPTN-008 Requires: `iRVision Core        '                                   
+OPTN-008 Requires: `iRVision Core VCPU   '                                   
+OPTN-008 Requires: `iRCalibration VMaster'                                   
+OPTN-008 Requires: `Arc Softpart         '                                   
+OPTN-008 Requires: `Arc Abnormal Monitor '                                   
+OPTN-008 Requires: `LVC function         '                                   
+OPTN-008 Requires: `Servo Gun Core       '                                   
+OPTN-008 Requires: `LVC function         '                                   
+OPTN-002 Installed: `GRID DETECT BUG FIX  '                                  
+OPTN-008 Requires: `PROFINET I/O         '                                   
+OPTN-008 Requires: `iRCalibration VMaster'                                   
+OPTN-008 Requires: `iRCalibration VMCal  '                                   
+OPTN-002 Installed: `FIX END BUSYRUNNING  '                                  
+OPTN-002 Installed: `FIX USR DEF TOLERANCE'                                  
+OPTN-002 Installed: `FIX OFFSET PROBLEM   '                                  
+OPTN-002 Installed: `FIX OS-144 AT RESTART'                                  
+OPTN-002 Installed: `VISION MASTER BUG FIX'                                  
+OPTN-002 Installed: `FIX GUNCHG SVGUN DROP'                                  
+OPTN-002 Installed: `ARMBEND ITP4MS BUGFIX'                                  
+"[swilib] Done with frs:init2.com"
+OPTN-018 No Language additions on this media                                 
+"Install Customization"
+OPTN-018 No CUSTOMIZ additions on this media                                 
+"CONTROL2 complete"
+"INIT3 for V7.50P/28 (FD V7.50.04)"
+"INIT3 complete"
+[syinit]CONTROL2 command status  0
+[NTSYIN_STEP] Startup Step #64
+[SYINISUB] forcing user device MC: was PATH:
+[FTP] FTP Interface V5.10
+[FTP] FTP debug addr = 2F71B820
+[FTP] Ethernet event flag received.
+[NTSYIN_STEP] Startup Step #65
+[TPSPART] Found KAREL ATMSKCHG 200
+[TPSPART] Found KAREL ROBMAINT 201
+[TPSPART] Found KAREL ATPRGADJ 930
+[TPSPART] Found KAREL ATWAITRL 931
+[TPSPART] Found KAREL ATPRSCRN 932
+[TPSPART] Found KAREL ATPASWRD 935
+[TPSPART] Found KAREL ATINSTAL 936
+[TPKSINIT] dname -K943- not found devstat = 0 cfg $86F74B4
+[TPSPART] Found KAREL ATCELLIO 955
+[TPSPART] Found KAREL HTSETUP 962
+[TPKSINIT] dname -K972- not found devstat = 0 cfg $87DBE9C
+[TPKSINIT] dname -K973- not found devstat = 0 cfg $87CAE74
+[TPSPART] Found KAREL ATSOFTPA 992
+[FTP] getservbyname failed
+[FTP] getservbyname failed
+[hcnetupt] synetrd failed FFFFFFFF
+[TPHCCOMM] bad tp core ver format ..
+[tphlplod] No help option
+[NTSYIN_STEP] Startup Step #66
+[TPMAIN] AUTOUPDT.DAT is removed
+[syinisub] running @FRS:autoctrl.com
+"[swiupdt] MED:\CUSTOM\UPDTCUSA.COM not found "
+OPTN-008 Requires: `C-flex               '                                   
+OPTN-008 Requires: `F-100iA              '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+OPTN-008 Requires: `Brake check function '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+OPTN-008 Requires: `Brake check function '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+OPTN-008 Requires: `Brake check function '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+[SPRUNCMDF]control restrore sequence start
+[osppc] Tick time changed -20000
+[vdat] num_run 2, runtime_size 1380, image_size 322167
+[vxlib] osxsndpkt() 0x0000010C
+[vdat] vxlib_check_feature stat=$ 10C
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+[vmiloadf] $GROUP created by TD:\SYSVARS.SV
+VARS-052 Variable $AUTOBACKUP converted                                      
+VARS-005 $DB_RECORD PC array length ignored                                  
+VARS-023 Array len creation mismatch                                           
+VARS-052 Variable $DB_RECORD converted                                       
+[vmsvcpy] not reallocating $HSCD_GROUP because dimension 8 = MAX_NUM_GRPS
+VARS-005 $HSCD_GROUP PC array length ignored                                 
+VARS-023 Array len creation mismatch                                           
+VARS-052 Variable $HSCD_GROUP converted                                      
+VARS-005 $PGTRACECTL PC array length ignored                                 
+VARS-023 Array len creation mismatch                                           
+VARS-052 Variable $PGTRACECTL converted                                      
+VARS-005 $PGTRACEDT PC array length ignored                                  
+VARS-023 Array len creation mismatch                                           
+VARS-052 Variable $PGTRACEDT converted                                       
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+SYST-040 Operation mode AUTO Selected                                          
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+[vmimage_bakfile] FRB:s-posreg.PRV backed up to FRB:s-posreg.VBK
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+[VM_CPCOPY_RC] FRS:\M61C.DT
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+VARS-054 Sysvars - V7.50122       8/1/2012 loaded                            
+[vmimage_bakfile] FRB:tpfdef.PRV backed up to FRB:tpfdef.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[vmimage_bakfile] FRB:s-numreg.PRV backed up to FRB:s-numreg.VBK
+[vmimage_bakfile] FRB:s-posreg.PRV backed up to FRB:s-posreg.VBK
+[vmimage_bakfile] FRB:s-strreg.PRV backed up to FRB:s-strreg.VBK
+[VM_CPCOPY_RC] FR:\PANEL1.STM
+[VM_CPCOPY_RC] FR:\PANEL2.STM
+[VM_CPCOPY_RC] FR:\PANEL3.STM
+[VM_CPCOPY_RC] FR:\PANEL4.STM
+[VM_CPCOPY_RC] FR:\AMBERLED.GIF
+[VM_CPCOPY_RC] FR:\DARKLED.GIF
+[VM_CPCOPY_RC] FR:\GREENLED.GIF
+[VM_CPCOPY_RC] FR:\NBUTTON.GIF
+[VM_CPCOPY_RC] FR:\PBUTTON.GIF
+[VM_CPCOPY_RC] FR:\REDLED.GIF
+[VM_CPCOPY_RC] FR:\SPACER.GIF
+[VM_CPCOPY_RC] FR:\XXXXXLED.GIF
+[VM_CPCOPY_RC] FR:\PANEL1.DT
+[VM_CPCOPY_RC] FR:\PANEL2.DT
+[VM_CPCOPY_RC] FR:\PANEL3.DT
+[VM_CPCOPY_RC] FR:\PANEL4.DT
+[VM_CPCOPY_RC] FR:\TPEINS.XML
+TPIF-218 MED:\00\TEMP\GETDATA.TP failed to load                              
+MEMO-006 Protection error occurred                                             
+TPIF-218 MED:\00\TEMP\REQMENU.TP failed to load                              
+MEMO-006 Protection error occurred                                             
+TPIF-218 MED:\00\TEMP\SENDDATA.TP failed to load                             
+MEMO-006 Protection error occurred                                             
+TPIF-218 MED:\00\TEMP\SENDEVNT.TP failed to load                             
+MEMO-006 Protection error occurred                                             
+TPIF-218 MED:\00\TEMP\SENDSYSV.TP failed to load                             
+MEMO-006 Protection error occurred                                             
+TPIF-218 MED:\00\TEMP\TPREC.TP failed to load                                
+MEMO-006 Protection error occurred                                             
+[spruncmdf] Did xcopy, from: MED:\00\TEMP\FR\*.* to: FR:\*.*, with stat:0
+[spruncmdf] Did xcopy, from: MED:\00\TEMP\FRA\*.* to: FRA:\*.*, with stat:0
+Error - file MED:\IMGALL.COM is being opened for writing.
+Error - file \IMGALL.COM is being opened for writing.
+[sprun] Found -64641 files in initload
+"[swiupdt] MED:\CUSTOM\UPDTCUSB.COM not found "
+OPTN-008 Requires: `C-flex               '                                   
+OPTN-008 Requires: `F-100iA              '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+OPTN-008 Requires: `Brake check function '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+OPTN-008 Requires: `Brake check function '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+OPTN-008 Requires: `Brake check function '                                   
+OPTN-008 Requires: `AU Restore complete  '                                   
+"Dummy FNOREST"
+[NTSYIN_STEP] Startup Step #67
+[NTPORT] accept connection
+[NTPORT] accept connection
+[sychkbmon] bmon version <V0.00P/00> <V7.50P/28 >
+BMON not updated status -2
+[SYRESTART] Running volatil
+"CONTROL3 for V7.50P/28 (FD V7.50.04)"
+[dvnewmd] Set needs_update program
+"CONTROL3 complete"
+[vminit_restart] Saving variable context
+[vmimage_bakfile] FRB:atshell.PRV backed up to FRB:atshell.VBK
+[vmimage_bakfile] FRB:s-system.PRV backed up to FRB:s-system.VBK
+[NTSYIN] userctrl2.com file not found
+[SYRESTART] switching modes from 1 to 2
+[pal_reset] Restarting system
+Switching states: old = STARTUP   new = RESTART 
+Tick            Avg: 2.357 ms, Min: 0.002 ms, Max: 5011.848 ms, ticks: 15944
+Execution times Avg: 0.006 ms, Min: 0.001 ms, Max: 0.166 ms
+Switching states: old = RESTART   new = STARTUP 
+[NTINIT] Frequency 10000000, Ticks/ms 10000 BusClock 40000000
+[IEWTQ] Count = 0 add to head/tail task: 199  cnt: 24  pri: 10
+[osppc] Virtual Clock timer device resolution discovery suceeded, min res: 1 ms
+[NTPORT] Ready for connections at 9100
+[NTPORT] Ready for connections at 9101
+[NTPORT] Ready for connections at 9102
+[NTPORT] Ready for connections at 9103
+[OSSERV] VIRTUAL not doing multi-processing service
+main bus clock 40
+main PCB version 4
+[ostkinit] TPWDOG_CHK $0
+ 
+[DSFL] MAIN V7.20 PCMCIA-ATA RD@0x0 (-128) dfdevtbl@0x2D736511
+[ksinitsk] syin continues
+Updated $MC_PATH = C:\Multi Robot Pick and Place Operation\Robot_1\MC
+Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V7.50
+Updated $UD1_PATH to = C:\Multi Robot Pick and Place Operation\Robot_1\UD1
+Updated $UD2_PATH to = C:\Multi Robot Pick and Place Operation\Robot_1\UD2
+[syinit] bootrom time: 319458 ms
+[syinit] ** COLD START **
+[syinit] System Version V7.50130      3/19/2015
+[ERLOG] Waiting for UIF to start up
+[syinisb0]VIRTUAL case,setting master_p->initializing to FALSE
+[ostkinit] ID $31 type 1D baud 31 version I
+[ostkinit] TP Baud Rate 19200
+[NTPORT] accept connection
+[syinit] ** COLD START **
+[dpinit] setting cur lang to NULL
+[dpsetlng] setting cur lang to DEFAULT     
+[tppascon_config] wait for EVB_SPINITDONE
+[sycfgmen] cfgmenu_p 0x406F758C
+[ostkinit] TPWDOG_CHK+2 $1000
+[syinisb0] tpid check ltp = 0x5C71460, tpid = 49
+[NTSYIN_STEP] Startup Step #68
+VMGR for R-J3iC V7.20
+[vmshadow_periodic] Normal power shutdown state = 0
+[vminit_loadctx] Loaded FRB:\S-SYSTEM.PRV only
+[vminit_loadctx] Loaded FRB:\S-INTERN.PRV only
+[vminit_loadctx] Done Loading Time = 55709us
+[NTSYIN_STEP] Startup Step #69
+[NTFRCPY] Did not load \TMILIB.DLL
+[NTSYIN_STEP] Startup Step #70
+[TX] Start
+[PMON] PC Monitor Task
+[rpcm] create TCP/IP RPC service
+[svctcp_create] RPCMAIN Server ready for connections on 3002
+[rpcm] call softparts to register service
+[rpcdaqs] register RPCDAQS service
+[rpcm] wait for connection
+[syinit] spmk2tsk(HTCG), status = $0
+CGTP WEB Server starting
+Web Enhancements installed
+[HTCG]: Binding to tcp port number 3080
+[HTTPD] ready for connections
+[syinisb0] Legacy 2, tpid = 49
+[dpsetlng] setting cur lang to DEFAULT     
+[tppascon_config] wait for EVB_SPINITDONE
+[dpimage_restctx] Loading DEFAULT      dictionaries pool_avail = 30886692
+[dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 224 Time 0ms
+[dpimage_restctx] Dictionaries loaded pool_avail = 30078688
+[dpsetlng] setting cur lang to DEFAULT     
+[tppascon_config] wait for EVB_SPINITDONE
+[NTSYIN_STEP] Startup Step #71
+[SYINISB0] Loading main system softparts please wait ...
+[NTFRCPY] Did not load \DCSTSK.DLL
+[NTFRCPY] Did not load \SFMRVAT.DLL
+[NTFRCPY] Did not load \SMUSB.DLL
+[NTFRCPY] Did not load \TPATBTSK.DLL
+[NTFRCPY] Did not load \UECK.DLL
+[NTFRCPY] Did not load \VSMO.DLL
+[NTFRCPY] Did not load \YBOX.DLL
+[SYSINISB0] spspload reference time 44355 ms, This Time 95ms
+[vminit_loadctx] Loading all files
+[vminit_loadctx] Done Loading Time = 46864us
+[Syin] Mobo start 0xFFFFFFFF
+[NTSYIN_STEP] Startup Step #72
+[SYINISB)] total time 830
+[NTSYIN_STEP] Startup Step #73
+[NTSYIN_STEP] Startup Step #74
+[SYINISUB] Saving user device MC:
+[SNPX] Client_Type 1, Port 18245
+[SNPX] Client_Type 2, Port 60008
+[syporti]pkt send to TLNT fails 10C
+[NTSYIN_STEP] Startup Step #75
+[NTSYIN_STEP] Startup Step #76
+[syinit] : calling iosetup
+[ripini] Initializing
+[ripini] SID_RIPSERV task start status = 0x380001
+[NTSYIN_STEP] Startup Step #77
+[NTSYIN_STEP] Startup Step #78
+[mmiage_init] TP DRAM Imaging system startup
+MEMO for R-J3iC Version V7.50 Rev-0
+[syinisub] Memory manager started
+[NTSYIN_STEP] Startup Step #79
+[NTSYIN_STEP] Startup Step #80
+[NTSYIN_STEP] Startup Step #81
+[NTSYIN_STEP] Startup Step #82
+[NTSYIN_STEP] Startup Step #83
+[NTSYIN_STEP] Startup Step #84
+[syinit] mosetvpr status <0>
+[NTSYIN_STEP] Startup Step #85
+[SMTPXML] SMTP option not loaded
+[NTSYIN_STEP] Startup Step #86
+[ERLOG] continue stat = 0x0
+[NTSYIN_STEP] Startup Step #87
+[syinisub] VMGR called to register program with MEMO
+[NTSYIN_STEP] Startup Step #88
+[NTSYIN_STEP] Startup Step #89
+[NTSYIN_STEP] Startup Step #90
+[NTSYIN_STEP] Startup Step #91
+[NTSYIN_STEP] Startup Step #92
+[NTSYIN_STEP] Startup Step #93
+[sytimque]: trigger loaded 0
+[CHND] Low Priority Condition Handler started.
+[CHND] init done. starting scanning
+[tpmains_start] executing legacy mode case
+[SKMG] Socket Messaging Interface V5.22 @0x2F1012F0
+[TELNET] start
+[TELNET] debug address 2FB11FEC
+[TELNET] Ethernet event flag received.
+[NTSYIN_STEP] Startup Step #94
+sswrkset ****rspaceg_p is 40626C80
+[sswrkset] no cd installed
+[sswrkset] no cd installed
+[sswrkset] no cd installed
+[sswrkset] no cd installed
+[sswrkset] cp installed and enabled = 1
+[SYINIT] OCTK started 380001
+[NTSYIN_STEP] Startup Step #95
+[NTSYIN_STEP] Startup Step #96
+[sycgtp] LED time = 0 ms
+[sycgtp] EXT time = 0 ms
+[NTSYIN_STEP] Startup Step #97
+"COLD1 for V7.50P/28 (FD V7.50.04)"
+"MENU for V7.50P/28 (FD V7.50.04)"
+"MENU complete"
+[SPRUNCMDF] status = 380001; "RUNTSK SID_YBOX" : COLD1.COM
+[vxmn] wake up
+[vcam] wake up
+[vexe] wake up
+[vxmn] oschggrp(114, 4, 0) 0x00000000
+[vcam] oschggrp(111, 4, 0) 0x00000000
+[vexe] oschggrp(113, 4, 0) 0x00000000
+[vdat] wake up
+[vdat] oschggrp(112, 4, 0) 0x00000000
+[vlog] oschggrp(115, 4, 0) 0x00000000
+[vtrn] wake up
+[vtrn] oschggrp(136, 4, 0) 0x00000000
+[vtrn] VTRN_P: $087E4080
+
+WEB Server starting
+Web Enhancements installed
+[HTTP]: Binding to tcp port number 80
+[HTTPD] ready for connections
+[vdat] num_run 2, runtime_size 1380, image_size 322167
+[ASBN] started
+[spruncmdf] +++ no abort
+"COLD1 complete"
+[NTSYIN_STEP] Startup Step #98
+[NTSYIN_STEP] Startup Step #99
+[SYINISUB] restored user device MC:
+[FTP] FTP Interface V5.10
+[FTP] FTP debug addr = 2F71B820
+[FTP] Ethernet event flag received.
+[SYINISUB] Saving user device MC:
+[NTSYIN_STEP] Startup Step #100
+[DEBUG] Entering moinit
+SYST-026 System normal power up                                                
+[lcmainsp] size of $SERV_REC is 3616
+[modaq] create XYZ named pipe hPipe = 5E0
+[sfmdest] null_flg_p:834E340
+[miinit][1] posted init PKT <6D71F60> to task<72> (0)
+[mpinit] initialize mb_fp
+[mpinit] after mpdyinit
+[mpinit] ossndpkt <0>
+[mpinit] done mpinit
+[mfinit] start
+[mfinit]abc_olympic_enb[1] = FALSE
+  [load_safety_param(MAIN)]load_address:0x11FE8000, size:0xA5DC
+[tbjtkini] finish wake up stat = 0
+[nectkini] finish wake up  stat = 0
+[moinit] done
+[miinit] done 
+[ostksock_create] Socket 1212 binding to IP port # 60004
+[ostksock_create] T-X IP address <001.001.001.011>
+[mfinidsp] wait for SCRDY
+[mfinidsp] start ITP
+[mfinidsp] disable FSSB ATR init
+[mfinidsp] check FSSB open
+[mfinidsp] waiting for SSTB...
+[mfinidsp] all SSTB become 1
+[syinisub] TICK_OFFSET 627DEC to 0
+[NTSYIN_STEP] Startup Step #101
+[NTSYIN_STEP] Startup Step #102
+[syinit] waiting for EVF_ENB_PWF...
+[syinit] osconflg(EVF_ENB_PWF) $16A
+[SYINISUB] VIRTUAL not waiting on EVF_ENB_PWF
+[syinit] oswaiflg(EVF_ENB_PWF) $16A
+[syinit] oswaiflg(EVF_ENB_PWF) failed, status = $16A
+[NTSYIN_STEP] Startup Step #103
+[DEBUGEMON] spschopt(J988) != (BOOLEAN)TRUE
+[NTSYIN_STEP] Startup Step #104
+R E S E T                                                                     
+[syinit] syrset(), status = $0
+[syinisub] VIRTUAL not waiting for servo on
+[NTSYIN_STEP] Startup Step #105
+[syinisub] Starting C shell 0x0
+[Shxsp] Ref positions in use
+[Shxsp] Initialize extension
+[syinisub]starting shell $0
+[NTSYIN_STEP] Startup Step #106
+"COLD2 for V7.50P/28 (FD V7.50.04)"
+"COLD2 complete"
+[syinisub] Ready to run ATSHELL
+Ready to run SHELL
+[syinisub] Start Karel shell 0x0
+[SYINISUB] restored user device MC:
+[syinit] Setting VMGR for in-line calls
+[syinit] end
+[syinisub.c] spmk2tsk(HTTC), status = $0
+[RDM] Robot Discovery Method V6.2003 @0x2FC01000
+[RDM]: Binding to udp port number 60008
+[RDM] Robot Discovery Method ready on port 60008
+[PRXY] Proxy Server Starting
+[PRXY] HTTP Proxy Server ready for connections on 8080
+[PXPMON] PMON Proxy Server ready for connections on 60005
+[PXRPCM] RPCM Proxy Server ready for connections on 60009
+[PXTLNT] rosip not initialized
+WEB Server starting
+[HTTC]: Binding to tcp port number 4080
+[symonutl] Getting data (3EA, 0)
+[symonutl] Fail to get mac from I2C (1)
+SYINISUB TOTAL TIME 2000
+[SYINISUB] restored user device MC:
+[NTSYIN_STEP] Startup Step #107
+[TPSPART] Found KAREL ATMSKCHG 200
+[TPSPART] Found KAREL ATPRGADJ 930
+[TPSPART] Found KAREL ATWAITRL 931
+[TPSPART] Found KAREL ATPRSCRN 932
+[TPSPART] Found KAREL ATPASWRD 935
+[TPKSINIT] dname -K943- not found devstat = 0 cfg $80A70BC
+[TPSPART] Found KAREL ATCELLIO 955
+[TPKSINIT] dname -K972- not found devstat = 0 cfg $80A6E30
+[TPKSINIT] dname -K973- not found devstat = 0 cfg $80A6D14
+[TPSPART] Found KAREL ATSOFTPA 992
+[FTP] getservbyname failed
+[FTP] getservbyname failed
+[TPHCCOMM] bad tp core ver format ..
+[tphlplod] No help option
+[NTSYIN_STEP] Startup Step #108
+[syinisub] running @MED:\00\TEMP\IOSTATUS.CM
+[syinisub] running @FRS:autocold.com
+[SPRUNCMDF] status = 2000E; "DEL MED:\AUKEPDCS.DAT" : MODIFORD
+[spruncmdf] +++ no abort
+[SPRUNCMDF] status = 2000E; "DEL MED:\core6\DCSFROM.LD1 " : MODIFORD
+[spruncmdf] +++ no abort
+[SPRUNCMDF] status = 2000E; "DEL MED:\core6\DCSFROM.LD2 " : MODIFORD
+[spruncmdf] +++ no abort
+[SPRUNCMDF] status = 2000E; "DEL MED:\core6\DCSVRFY.BIN " : MODIFORD
+[spruncmdf] +++ no abort
+[SPRUNCMDF] status = 2000E; "DEL MED:\core6\DCSDEFS.BIN" : MODIFORD
+[spruncmdf] +++ no abort
+[osppc] Tick time changed -20000
+[SPRUNCMDF] status = 2000E; "FRREP UD1:\00\IGALBKUP.CM "REN UD1:\\00\\TEMP" "IGALBKUP -AU"" : MED:\00\TEMP\RENAME.COM
+[spruncmdf] +++ no abort
+                                                                               
+SYST-176 Software was updated                                                  
+[NTSYIN_STEP] Startup Step #109
+[FRSOCK] recv failed (no pending)! 0x2745
+APSH-155 HOME position not recorded                                            
+APSH-156 Specify Home in Ref Pos Menu                                          
+[PMON] Connecting to <127.000.000.001:5182>
+
+SMON(main)> copy frs:orderfil.dat virt:\temp\=>192.168.42.146:3020
+Copy time 1 
+
+SMON(main)> copy frs:*.dt virt:\temp\=>192.168.42.146:3020
+Copy time 175 
+[osppc] Tick time changed -1200
+
+SMON(main)> xyzrate 61
+spcmd time 0 
+spcmd completed successfully.
+DAQ connecting to <127.0.0.1:11913>
+R E S E T                                                                     
+[ntsuperv] Sync state change from 0 to 1
+
+SMON(main)> xyzrate 61=>192.168.42.146:3020
+spcmd time 0 
+spcmd completed successfully.
+
+[NTPORT] accept connection
+SYST-039 Operation mode T2 Selected                                            
+R E S E T                                                                     
+[osppc] Tick time changed -20000
+SYST-040 Operation mode AUTO Selected                                          
+R E S E T                                                                     
+R E S E T                                                                     
+[osppc] Tick time changed -1200
+[NTPORT] accept connection
+SYST-039 Operation mode T2 Selected                                            
+R E S E T                                                                     
+SYST-043 TP disabled in T1/T2 mode                                             
+SYST-040 Operation mode AUTO Selected                                          
+R E S E T                                                                     
+
+SMON(main)> copy md:prgstate.dg virt:\temp\=>192.168.42.146:3020
+Copy time 21 
+
+SMON(main)> copy md:conslog.dg virt:\temp\=>192.168.42.146:3020

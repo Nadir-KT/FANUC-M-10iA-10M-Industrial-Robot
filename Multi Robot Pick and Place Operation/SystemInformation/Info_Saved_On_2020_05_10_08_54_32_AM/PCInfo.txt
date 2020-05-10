@@ -1,0 +1,69 @@
+﻿=======
+General
+=======
+Computer Name = DESKTOP-MBMD4JI
+Computer Manufacturer = Dell Inc.
+Computer Model = Inspiron N5050
+Computer System Type = x64-based PC
+================
+Operating System
+================
+OS = Microsoft Windows 10 Enterprise(64-bit)
+Version = 6.2.9200.0
+Service Pack = 0.0
+OS Platform = Win32NT
+Installed UI Culture = English (United States)
+IE Version = 11.778.18362.0
+============
+Processor #1
+============
+CPU Name = Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz
+Max Clock Speed = 2300
+Number of Cores = 2
+Address Width = 64
+Processor Version = 
+==================
+Display Adapter #1
+==================
+Adapter Name = Intel(R) HD Graphics 3000
+Adapter RAM = 2210398208
+Video Processor = Intel(R) HD Graphics Family
+Video Mode Description = 1366 x 768 x 4294967296 colors
+Driver Version = 9.17.10.4459
+Driver Date = 20160519000000.000000-000
+Status = OK
+==================
+Graphics
+==================
+Twips Per Pixel = 15
+VTP Moving Effect = HideGraphic
+GPU Memory Status = 1000000, 1005024
+======
+OpenGL
+======
+Version = 3.1
+Vendor = Intel
+Performance Improvement = True
+Depth Buffer Bit = 24
+Stencil Buffer Bit = 8
+Max Elements Vertices = 1200
+Max Elements Indices = 1200
+Anti-Aliasing = Disabled(15)
+=========
+PC Memory
+=========
+Available Physical Memory = 5676171264
+Available Virtual Memory = 3683155968
+Total Physical Memory = 8493748224
+Total Virtual Memory = 4294836224
+======================
+FANUC Product Versions
+======================
+FANUC ROBOGUIDE 3D Player V9.10145 (Rev.H) 
+Robot Neighborhood 9.10145.19.03 
+Robot Server 9.10145.19.03 
+Virtual Robot Controller V7.50 (Rev.O) 
+Virtual Robot Controller V9.10 (Rev.I) 
+Vision Controls V7.70 7.7077.36.04 
+Vision Controls V8.10 8.1314.04.02 
+ROBOGUIDE V9.10145 (Rev.H) 
