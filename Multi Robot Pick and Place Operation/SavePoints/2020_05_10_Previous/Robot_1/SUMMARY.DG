@@ -3,7 +3,7 @@
 F Number: F00000    
 VERSION : HandlingTool         
 $VERSION: V7.50130      3/19/2015
-DATE:     10-MAY-20 10:39 
+DATE:     10-MAY-20 10:49 
 
 VERSION INFORMATION::
 SOFTWARE:              ID:
@@ -320,11 +320,11 @@ MEMORY USAGE::
 MEMORY DETAIL (MAIN):
 Pools        TOTAL     AVAILABLE      LARGEST
 TPP          700.0KB     688.7KB     688.7KB
-PERM        2040.0KB     803.9KB     803.3KB
+PERM        2040.0KB     802.4KB     801.8KB
 SYSTEM          .0KB       0.0KB       0.0KB
 SHADOW      6296.4KB    6096.2KB      32.0KB
-TEMP       32709.0KB   18958.2KB   18860.6KB
-FROM       31857.0KB   27151.0KB        .0KB
+TEMP       32709.0KB   18953.2KB   18846.2KB
+FROM       31857.0KB   27135.0KB        .0KB
 HARDWARE
 FROM      32MB
 DRAM      32MB
@@ -374,7 +374,12 @@ Line:    91       Program: LOADCELL                              Type: PC
 Routine depth: 0  Routine: SWIMSET                             
 Line:   348       Program: SWIMSET                               Type: PC    
 
-7              status = ABORTED
+7 MULTIROBOTTASK status = ABORTED
+
+******  History Data  ******
+Routine depth: 0  Routine: MULTIROBOTTASK                      
+Line:     1       Program: MULTIROBOTTASK                        Type: TP    
+
 
 </PRE><H2><A NAME="4">I/O status information</A></H2>
 <PRE><A HREF="#TOP"></A><P>

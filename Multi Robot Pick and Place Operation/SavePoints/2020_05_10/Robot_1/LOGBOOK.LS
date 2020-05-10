@@ -1,939 +1,1594 @@
-LOGBOOK.LS     Robot Name ROBOT 10-MAY-20 10:39     
+LOGBOOK.LS     Robot Name ROBOT 10-MAY-20 10:49     
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Operation        
 ========================================
 FILE 'MC:\IOSTATUS.CM' is saved        
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\HTTPKCL.VR' is saved         
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\HTCOLREC.VR' is saved        
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\HOME_IO.TP' is saved         
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\HIST.LS' is saved            
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\HIGHM61C.VR' is saved        
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\HI03M61C.VR' is saved        
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\GREENLED.GIF' is saved       
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\GETDATA.TP' is saved         
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\GEMDATA.VR' is saved         
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\FTPLOG.DG' is saved          
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\FRAMEVAR.VR' is saved        
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ETHERNET.DG' is saved        
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ERRSYS.LS' is saved          
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
-FILE 'MDS8:\ERRSYS.LS' is saved        
-10-MAY-20 10:39 :26
+FILE 'MDS9:\ERRSYS.LS' is saved        
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ERRPWD.LS' is saved          
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
-FILE 'MDS7:\ERRPWD.LS' is saved        
-10-MAY-20 10:39 :26
+FILE 'MDS8:\ERRPWD.LS' is saved        
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ERRMOT.LS' is saved          
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
-FILE 'MDS6:\ERRMOT.LS' is saved        
-10-MAY-20 10:39 :26
+FILE 'MDS7:\ERRMOT.LS' is saved        
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ERRHIST.LS' is saved         
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
-FILE 'MDS5:\ERRHIST.LS' is saved       
-10-MAY-20 10:39 :26
+FILE 'MDS6:\ERRHIST.LS' is saved       
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ERREXT.LS' is saved          
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
-FILE 'MDS4:\ERREXT.LS' is saved        
-10-MAY-20 10:39 :26
+FILE 'MDS5:\ERREXT.LS' is saved        
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ERRCURR.LS' is saved         
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :14
 ========================================
-FILE 'MDS3:\ERRCURR.LS' is saved       
-10-MAY-20 10:39 :26
+FILE 'MDS4:\ERRCURR.LS' is saved       
+10-MAY-20 10:49 :14
 ========================================
 FILE 'MC:\ERRCOMM.LS' is saved         
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :12
 ========================================
-FILE 'MDS2:\ERRCOMM.LS' is saved       
-10-MAY-20 10:39 :26
+FILE 'MDS3:\ERRCOMM.LS' is saved       
+10-MAY-20 10:49 :12
 ========================================
 FILE 'MC:\ERRAPP.LS' is saved          
-10-MAY-20 10:39 :26
+10-MAY-20 10:49 :12
 ========================================
-FILE 'MDS1:\ERRAPP.LS' is saved        
-10-MAY-20 10:39 :26
+FILE 'MDS2:\ERRAPP.LS' is saved        
+10-MAY-20 10:49 :12
 ========================================
 FILE 'MC:\ERRALL.LS' is saved          
-10-MAY-20 10:39 :24
-========================================
-FILE 'MDS0:\ERRALL.LS' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\ERRACT.LS' is saved          
-10-MAY-20 10:39 :24
-========================================
-FILE 'MDS9:\ERRACT.LS' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DIOCFGSV.IO' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DF_MOTN0.DF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DF_LOGI6.DF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DF_LOGI5.DF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DF_LOGI4.DF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DF_LOGI3.DF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DF_LOGI2.DF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DF_LOGI1.DF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSVRFY3.DG' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSVRFY2.DG' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSVRFY1.DG' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSVRFY.DG' is saved         
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSDIFF.DG' is saved         
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSCHGD3.DG' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSCHGD2.DG' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DCSCHGD1.DG' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\DARKLED.GIF' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\CONSLOG.DG' is saved         
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\CELLIO.SV' is saved          
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\BACKDATE.DT' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\ATERRJOB.VR' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\AMBERLED.GIF' is saved       
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\-BCKEDT-.TP' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\-BCKED9-.TP' is saved        
-10-MAY-20 10:39 :24
-========================================
-FILE 'MC:\-BCKED8-.TP' is saved        
-10-MAY-20 10:39 :24
-========================================
-R E S E T                              
-                                       
-                              00000000 
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\XXXXXLED.GIF' is saved       
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\UPDTLOG.LS' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\UPDATES.DAT' is saved        
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\TPRECKL.VR' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\TPREC.TP' is saved           
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\TPEINS.XML' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSVARS.SV' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSUIF.SV' is saved          
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSSERVO.SV' is saved        
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSPASS.SV' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSMAST.SV' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSMACRO.SV' is saved        
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSHOST.SV' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSFSAC.SV' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SYSFRAME.SV' is saved        
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SUMMARY.DG' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\STRREG.VR' is saved          
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SPACER.GIF' is saved         
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SHADOW.DG' is saved          
-10-MAY-20 10:39 :02
-========================================
-FILE 'MC:\SENDSYSV.TP' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\SENDEVNT.TP' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\SENDDATA.TP' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\REQMENU.TP' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\REDLED.GIF' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PSRBWLD.CM' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PRO_MOV2.TP' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\POSREG.VR' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PBUTTON.GIF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL4.STM' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL4.DT' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL3.STM' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL3.DT' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL2.STM' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL2.DT' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL1.STM' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\PANEL1.DT' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\OTEMGRUN.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\OTEMGMON.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ORDERFIL.DAT' is saved       
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\NUMREG.VR' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\NTDAQ.VR' is saved           
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\NORMM61C.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\NO03M61C.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\NBUTTON.GIF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\MULTIROBOTTASK.TP' is saved  
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\MIXLOGIC.SV' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\MEM_PORT.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\MEMCHECK.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\M61C.DT' is saved            
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\M10SET10.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\M10SET06.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\M10SET03.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\LOGBOOK.LS' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS1:\LOGBOOK.LS' is saved       
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\IOSTATUS.CM' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\HTTPKCL.VR' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\HTCOLREC.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\HOME_IO.TP' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\HIST.LS' is saved            
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\HIGHM61C.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\HI03M61C.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\GREENLED.GIF' is saved       
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\GETDATA.TP' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\GEMDATA.VR' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\FTPLOG.DG' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\FRAMEVAR.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ETHERNET.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRSYS.LS' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS7:\ERRSYS.LS' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRPWD.LS' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS6:\ERRPWD.LS' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRMOT.LS' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS5:\ERRMOT.LS' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRHIST.LS' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS4:\ERRHIST.LS' is saved       
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERREXT.LS' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS3:\ERREXT.LS' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRCURR.LS' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS2:\ERRCURR.LS' is saved       
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRCOMM.LS' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS1:\ERRCOMM.LS' is saved       
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRAPP.LS' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS0:\ERRAPP.LS' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRALL.LS' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS9:\ERRALL.LS' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ERRACT.LS' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MDS8:\ERRACT.LS' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DIOCFGSV.IO' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DF_MOTN0.DF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DF_LOGI6.DF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DF_LOGI5.DF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DF_LOGI4.DF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DF_LOGI3.DF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DF_LOGI2.DF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DF_LOGI1.DF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSVRFY3.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSVRFY2.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSVRFY1.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSVRFY.DG' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSDIFF.DG' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSCHGD3.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSCHGD2.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DCSCHGD1.DG' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\DARKLED.GIF' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\CONSLOG.DG' is saved         
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\CELLIO.SV' is saved          
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\BACKDATE.DT' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\ATERRJOB.VR' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\AMBERLED.GIF' is saved       
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\-BCKEDT-.TP' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\-BCKED9-.TP' is saved        
-10-MAY-20 10:39 :00
-========================================
-FILE 'MC:\-BCKED8-.TP' is saved        
-10-MAY-20 10:39 :00
-========================================
-R E S E T                              
-                                       
-                              00000000 
-10-MAY-20 10:38 :02
-========================================
-Override 100%                          
-10-MAY-20 10:38 :00
-========================================
-Menu changed 'UTILITIES Hints'         
-10-MAY-20 10:37 :56
-========================================
-Override 10%                           
-10-MAY-20 10:37 :56
-========================================
-FILE 'MC:\MEMORY.DG' is saved          
-10-MAY-20 10:37 :54
-========================================
-SYST-176 Software was updated          
-                                       
-                                       
-PAUSE.G                       00100010 
-10-MAY-20 10:37 :54
-========================================
-FILE 'MED:\ERRALL.LS' is saved         
-10-MAY-20 10:37 :54
+10-MAY-20 10:49 :12
 ========================================
 FILE 'MDS1:\ERRALL.LS' is saved        
-10-MAY-20 10:37 :54
+10-MAY-20 10:49 :12
 ========================================
-FILE 'FRS:\CMIO.VR' is loaded          
-10-MAY-20 10:37 :54
+FILE 'MC:\ERRACT.LS' is saved          
+10-MAY-20 10:49 :12
+========================================
+FILE 'MDS0:\ERRACT.LS' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DIOCFGSV.IO' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DF_MOTN0.DF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DF_LOGI6.DF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DF_LOGI5.DF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DF_LOGI4.DF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DF_LOGI3.DF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DF_LOGI2.DF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DF_LOGI1.DF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSVRFY3.DG' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSVRFY2.DG' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSVRFY1.DG' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSVRFY.DG' is saved         
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSDIFF.DG' is saved         
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSCHGD3.DG' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSCHGD2.DG' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DCSCHGD1.DG' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\DARKLED.GIF' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\CONSLOG.DG' is saved         
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\CELLIO.SV' is saved          
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\BACKDATE.DT' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\ATERRJOB.VR' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\AMBERLED.GIF' is saved       
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\-BCKEDT-.TP' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\-BCKED9-.TP' is saved        
+10-MAY-20 10:49 :12
+========================================
+FILE 'MC:\-BCKED8-.TP' is saved        
+10-MAY-20 10:49 :12
 ========================================
 R E S E T                              
                                        
                               00000000 
-10-MAY-20 10:37 :54
+10-MAY-20 10:49 :02
 ========================================
-Cold start                             
-10-MAY-20 10:37 :52
+FILE 'MC:\XXXXXLED.GIF' is saved       
+10-MAY-20 10:49 :02
 ========================================
-'START (COLD)' is selected in FCTN     
-10-MAY-20 10:37 :50
+FILE 'MC:\UPDTLOG.LS' is saved         
+10-MAY-20 10:49 :02
 ========================================
-Menu changed ''                        
-10-MAY-20 10:37 :50
+FILE 'MC:\UPDATES.DAT' is saved        
+10-MAY-20 10:49 :02
 ========================================
-'S/W INSTALL' is selected in MENU      
-10-MAY-20 10:37 :50
+FILE 'MC:\TPRECKL.VR' is saved         
+10-MAY-20 10:49 :02
 ========================================
-Menu changed ''                        
-10-MAY-20 10:37 :42
+FILE 'MC:\TPREC.TP' is saved           
+10-MAY-20 10:49 :02
 ========================================
-Tool frame 0(G:1)                      
-10-MAY-20 10:37 :42
+FILE 'MC:\TPEINS.XML' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\MEMORY.DG' is saved          
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSVARS.SV' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\DF_MOTN0.DF' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSUIF.SV' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\DF_LOGI6.DF' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSSERVO.SV' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\DF_LOGI5.DF' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSPASS.SV' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\DF_LOGI4.DF' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSMAST.SV' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\DF_LOGI3.DF' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSMACRO.SV' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\DF_LOGI2.DF' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSHOST.SV' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\DF_LOGI1.DF' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSFSAC.SV' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\PRO_MOV2.TP' is load
-ed                                     
-10-MAY-20 10:37 :42
+FILE 'MC:\SYSFRAME.SV' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\MULTIROBOTTASK.TP' i
-s loaded                               
-10-MAY-20 10:37 :42
+FILE 'MC:\SUMMARY.DG' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\HOME_IO.TP' is loade
-d                                      
-10-MAY-20 10:37 :42
+FILE 'MC:\STRREG.VR' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\-BCKEDT-.TP' is load
-ed                                     
-10-MAY-20 10:37 :40
+FILE 'MC:\SPACER.GIF' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\-BCKED9-.TP' is load
-ed                                     
-10-MAY-20 10:37 :40
+FILE 'MC:\SHADOW.DG' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MED:\00\TEMP\-BCKED8-.TP' is load
-ed                                     
-10-MAY-20 10:37 :40
+FILE 'MC:\SENDSYSV.TP' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\TPEINS.XML' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\SENDEVNT.TP' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL4.DT' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\SENDDATA.TP' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL3.DT' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\REQMENU.TP' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL2.DT' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\REDLED.GIF' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL1.DT' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\PSRBWLD.CM' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\XXXXXLED.GIF' is loaded      
-10-MAY-20 10:37 :40
+FILE 'MC:\PRO_MOV2.TP' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\SPACER.GIF' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\POSREG.VR' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\REDLED.GIF' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\PBUTTON.GIF' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PBUTTON.GIF' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL4.STM' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\NBUTTON.GIF' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL4.DT' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\GREENLED.GIF' is loaded      
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL3.STM' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\DARKLED.GIF' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL3.DT' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\AMBERLED.GIF' is loaded      
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL2.STM' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL4.STM' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL2.DT' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL3.STM' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL1.STM' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL2.STM' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\PANEL1.DT' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\PANEL1.STM' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\OTEMGRUN.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\TPRECKL.VR' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\OTEMGMON.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\STRREG.VR' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\ORDERFIL.DAT' is saved       
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\POSREG.VR' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\NUMREG.VR' is saved          
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\OTEMGRUN.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\NTDAQ.VR' is saved           
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\OTEMGMON.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\NORMM61C.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\NUMREG.VR' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\NO03M61C.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\NTDAQ.VR' is loaded          
-10-MAY-20 10:37 :40
+FILE 'MC:\NBUTTON.GIF' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\NORMM61C.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\MULTIROBOTTASK.TP' is saved  
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\NO03M61C.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\MIXLOGIC.SV' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\MEM_PORT.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\MEM_PORT.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\M10SET10.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\MEMCHECK.DG' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\M10SET06.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\M61C.DT' is saved            
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\M10SET03.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\M10SET10.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\HTTPKCL.VR' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\M10SET06.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\HTCOLREC.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\M10SET03.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\HIGHM61C.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\LOGBOOK.LS' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\HI03M61C.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MDS2:\LOGBOOK.LS' is saved       
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\GEMDATA.VR' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\IOSTATUS.CM' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\FRAMEVAR.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\HTTPKCL.VR' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\ATERRJOB.VR' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\HTCOLREC.VR' is saved        
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\SYSPASS.SV' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\HOME_IO.TP' is saved         
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\SYSHOST.SV' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\HIST.LS' is saved            
+10-MAY-20 10:49 :02
 ========================================
-FILE 'MC:\SYSFSAC.SV' is loaded        
-10-MAY-20 10:37 :40
+FILE 'MC:\HIGHM61C.VR' is saved        
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\M61C.DT' is loaded           
-10-MAY-20 10:37 :40
+FILE 'MC:\HI03M61C.VR' is saved        
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\CELLIO.SV' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\GREENLED.GIF' is saved       
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\MIXLOGIC.SV' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\GETDATA.TP' is saved         
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\POSREG.VR' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\GEMDATA.VR' is saved         
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\SYSUIF.SV' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\FTPLOG.DG' is saved          
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\STRREG.VR' is loaded         
-10-MAY-20 10:37 :40
+FILE 'MC:\FRAMEVAR.VR' is saved        
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\SYSFRAME.SV' is loaded       
-10-MAY-20 10:37 :40
+FILE 'MC:\ETHERNET.DG' is saved        
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\SYSMACRO.SV' is loaded       
-10-MAY-20 10:37 :38
+FILE 'MC:\ERRSYS.LS' is saved          
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\SYSMAST.SV' is loaded        
-10-MAY-20 10:37 :38
+FILE 'MDS8:\ERRSYS.LS' is saved        
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\SYSSERVO.SV' is loaded       
-10-MAY-20 10:37 :38
+FILE 'MC:\ERRPWD.LS' is saved          
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\DIOCFGSV.IO' is loaded       
-10-MAY-20 10:37 :38
+FILE 'MDS7:\ERRPWD.LS' is saved        
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\NUMREG.VR' is loaded         
-10-MAY-20 10:37 :38
+FILE 'MC:\ERRMOT.LS' is saved          
+10-MAY-20 10:49 :00
 ========================================
-FILE 'MC:\FRAMEVAR.VR' is loaded       
-10-MAY-20 10:37 :38
+FILE 'MDS6:\ERRMOT.LS' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ERRHIST.LS' is saved         
+10-MAY-20 10:49 :00
+========================================
+FILE 'MDS5:\ERRHIST.LS' is saved       
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ERREXT.LS' is saved          
+10-MAY-20 10:49 :00
+========================================
+FILE 'MDS4:\ERREXT.LS' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ERRCURR.LS' is saved         
+10-MAY-20 10:49 :00
+========================================
+FILE 'MDS3:\ERRCURR.LS' is saved       
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ERRCOMM.LS' is saved         
+10-MAY-20 10:49 :00
+========================================
+FILE 'MDS2:\ERRCOMM.LS' is saved       
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ERRAPP.LS' is saved          
+10-MAY-20 10:49 :00
+========================================
+FILE 'MDS1:\ERRAPP.LS' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ERRALL.LS' is saved          
+10-MAY-20 10:49 :00
+========================================
+FILE 'MDS0:\ERRALL.LS' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ERRACT.LS' is saved          
+10-MAY-20 10:49 :00
+========================================
+FILE 'MDS9:\ERRACT.LS' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DIOCFGSV.IO' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DF_MOTN0.DF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DF_LOGI6.DF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DF_LOGI5.DF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DF_LOGI4.DF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DF_LOGI3.DF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DF_LOGI2.DF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DF_LOGI1.DF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSVRFY3.DG' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSVRFY2.DG' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSVRFY1.DG' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSVRFY.DG' is saved         
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSDIFF.DG' is saved         
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSCHGD3.DG' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSCHGD2.DG' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DCSCHGD1.DG' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\DARKLED.GIF' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\CONSLOG.DG' is saved         
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\CELLIO.SV' is saved          
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\BACKDATE.DT' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\ATERRJOB.VR' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\AMBERLED.GIF' is saved       
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\-BCKEDT-.TP' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\-BCKED9-.TP' is saved        
+10-MAY-20 10:49 :00
+========================================
+FILE 'MC:\-BCKED8-.TP' is saved        
+10-MAY-20 10:49 :00
+========================================
+R E S E T                              
+                                       
+                              00000000 
+10-MAY-20 10:48 :28
 ========================================
 SYST-040 Operation mode AUTO Selected  
                                        
                                        
 SERVO                         00110110 
-10-MAY-20 10:37 :38
+10-MAY-20 10:48 :28
+========================================
+SYST-043 TP disabled in T1/T2 mode     
+                                       
+                                       
+STOP.L                        00000110 
+10-MAY-20 10:48 :28
+========================================
+SHIFT,FWD is pressed                   
+10-MAY-20 10:48 :14
+========================================
+R E S E T                              
+                                       
+                              00000000 
+10-MAY-20 10:48 :12
+========================================
+SYST-039 Operation mode T2 Selected    
+                                       
+                                       
+SERVO                         00110110 
+10-MAY-20 10:48 :12
+========================================
+R E S E T                              
+                                       
+                              00000000 
+10-MAY-20 10:47 :56
+========================================
+FILE 'MC:\XXXXXLED.GIF' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\UPDTLOG.LS' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\UPDATES.DAT' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\TPRECKL.VR' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\TPREC.TP' is saved           
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\TPEINS.XML' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSVARS.SV' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSUIF.SV' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSSERVO.SV' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSPASS.SV' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSMAST.SV' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSMACRO.SV' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSHOST.SV' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSFSAC.SV' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SYSFRAME.SV' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SUMMARY.DG' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\STRREG.VR' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SPACER.GIF' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SHADOW.DG' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SENDSYSV.TP' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SENDEVNT.TP' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\SENDDATA.TP' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\REQMENU.TP' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\REDLED.GIF' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PSRBWLD.CM' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PRO_MOV2.TP' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\POSREG.VR' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PBUTTON.GIF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL4.STM' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL4.DT' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL3.STM' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL3.DT' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL2.STM' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL2.DT' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL1.STM' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\PANEL1.DT' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\OTEMGRUN.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\OTEMGMON.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ORDERFIL.DAT' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\NUMREG.VR' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\NTDAQ.VR' is saved           
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\NORMM61C.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\NO03M61C.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\NBUTTON.GIF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\MULTIROBOTTASK.TP' is saved  
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\MIXLOGIC.SV' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\MEM_PORT.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\MEMCHECK.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\M61C.DT' is saved            
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\M10SET10.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\M10SET06.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\M10SET03.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\LOGBOOK.LS' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS1:\LOGBOOK.LS' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\IOSTATUS.CM' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\HTTPKCL.VR' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\HTCOLREC.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\HOME_IO.TP' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\HIST.LS' is saved            
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\HIGHM61C.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\HI03M61C.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\GREENLED.GIF' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\GETDATA.TP' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\GEMDATA.VR' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\FTPLOG.DG' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\FRAMEVAR.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ETHERNET.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRSYS.LS' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS7:\ERRSYS.LS' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRPWD.LS' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS6:\ERRPWD.LS' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRMOT.LS' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS5:\ERRMOT.LS' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRHIST.LS' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS4:\ERRHIST.LS' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERREXT.LS' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS3:\ERREXT.LS' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRCURR.LS' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS2:\ERRCURR.LS' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRCOMM.LS' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS1:\ERRCOMM.LS' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRAPP.LS' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS0:\ERRAPP.LS' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRALL.LS' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS9:\ERRALL.LS' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ERRACT.LS' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MDS8:\ERRACT.LS' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DIOCFGSV.IO' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DF_MOTN0.DF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DF_LOGI6.DF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DF_LOGI5.DF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DF_LOGI4.DF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DF_LOGI3.DF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DF_LOGI2.DF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DF_LOGI1.DF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSVRFY3.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSVRFY2.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSVRFY1.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSVRFY.DG' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSDIFF.DG' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSCHGD3.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSCHGD2.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DCSCHGD1.DG' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\DARKLED.GIF' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\CONSLOG.DG' is saved         
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\CELLIO.SV' is saved          
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\BACKDATE.DT' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\ATERRJOB.VR' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\AMBERLED.GIF' is saved       
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\-BCKEDT-.TP' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\-BCKED9-.TP' is saved        
+10-MAY-20 10:47 :54
+========================================
+FILE 'MC:\-BCKED8-.TP' is saved        
+10-MAY-20 10:47 :54
+========================================
+R E S E T                              
+                                       
+                              00000000 
+10-MAY-20 10:46 :54
+========================================
+Override 100%                          
+10-MAY-20 10:46 :54
+========================================
+Menu changed 'UTILITIES Hints'         
+10-MAY-20 10:46 :48
+========================================
+Override 10%                           
+10-MAY-20 10:46 :48
+========================================
+FILE 'MC:\MEMORY.DG' is saved          
+10-MAY-20 10:46 :48
+========================================
+SYST-176 Software was updated          
+                                       
+                                       
+PAUSE.G                       00100010 
+10-MAY-20 10:46 :48
+========================================
+FILE 'MED:\ERRALL.LS' is saved         
+10-MAY-20 10:46 :48
+========================================
+FILE 'MDS1:\ERRALL.LS' is saved        
+10-MAY-20 10:46 :48
+========================================
+FILE 'FRS:\CMIO.VR' is loaded          
+10-MAY-20 10:46 :48
+========================================
+R E S E T                              
+                                       
+                              00000000 
+10-MAY-20 10:46 :48
+========================================
+Cold start                             
+10-MAY-20 10:46 :44
+========================================
+'START (COLD)' is selected in FCTN     
+10-MAY-20 10:46 :44
+========================================
+'S/W INSTALL' is selected in MENU      
+10-MAY-20 10:46 :42
+========================================
+Menu changed ''                        
+10-MAY-20 10:46 :36
+========================================
+Tool frame 0(G:1)                      
+10-MAY-20 10:46 :36
+========================================
+FILE 'MC:\MEMORY.DG' is saved          
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\DF_MOTN0.DF' is load
+ed                                     
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\DF_LOGI6.DF' is load
+ed                                     
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\DF_LOGI5.DF' is load
+ed                                     
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\DF_LOGI4.DF' is load
+ed                                     
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\DF_LOGI3.DF' is load
+ed                                     
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\DF_LOGI2.DF' is load
+ed                                     
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\DF_LOGI1.DF' is load
+ed                                     
+10-MAY-20 10:46 :36
+========================================
+FILE 'MED:\00\TEMP\PRO_MOV2.TP' is load
+ed                                     
+10-MAY-20 10:46 :34
+========================================
+FILE 'MED:\00\TEMP\MULTIROBOTTASK.TP' i
+s loaded                               
+10-MAY-20 10:46 :34
+========================================
+FILE 'MED:\00\TEMP\HOME_IO.TP' is loade
+d                                      
+10-MAY-20 10:46 :34
+========================================
+FILE 'MED:\00\TEMP\-BCKEDT-.TP' is load
+ed                                     
+10-MAY-20 10:46 :34
+========================================
+FILE 'MED:\00\TEMP\-BCKED9-.TP' is load
+ed                                     
+10-MAY-20 10:46 :34
+========================================
+FILE 'MED:\00\TEMP\-BCKED8-.TP' is load
+ed                                     
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\TPEINS.XML' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL4.DT' is loaded         
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL3.DT' is loaded         
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL2.DT' is loaded         
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL1.DT' is loaded         
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\XXXXXLED.GIF' is loaded      
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\SPACER.GIF' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\REDLED.GIF' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PBUTTON.GIF' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\NBUTTON.GIF' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\GREENLED.GIF' is loaded      
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\DARKLED.GIF' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\AMBERLED.GIF' is loaded      
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL4.STM' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL3.STM' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL2.STM' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\PANEL1.STM' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\TPRECKL.VR' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\STRREG.VR' is loaded         
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\POSREG.VR' is loaded         
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\OTEMGRUN.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\OTEMGMON.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\NUMREG.VR' is loaded         
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\NTDAQ.VR' is loaded          
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\NORMM61C.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\NO03M61C.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\MEM_PORT.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\M10SET10.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\M10SET06.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\M10SET03.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\HTTPKCL.VR' is loaded        
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\HTCOLREC.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\HIGHM61C.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\HI03M61C.VR' is loaded       
+10-MAY-20 10:46 :34
+========================================
+FILE 'MC:\GEMDATA.VR' is loaded        
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\FRAMEVAR.VR' is loaded       
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\ATERRJOB.VR' is loaded       
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSPASS.SV' is loaded        
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSHOST.SV' is loaded        
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSFSAC.SV' is loaded        
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\M61C.DT' is loaded           
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\CELLIO.SV' is loaded         
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\MIXLOGIC.SV' is loaded       
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\POSREG.VR' is loaded         
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSUIF.SV' is loaded         
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\STRREG.VR' is loaded         
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSFRAME.SV' is loaded       
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSMACRO.SV' is loaded       
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSMAST.SV' is loaded        
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\SYSSERVO.SV' is loaded       
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\DIOCFGSV.IO' is loaded       
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\NUMREG.VR' is loaded         
+10-MAY-20 10:46 :32
+========================================
+FILE 'MC:\FRAMEVAR.VR' is loaded       
+10-MAY-20 10:46 :32
+========================================
+SYST-040 Operation mode AUTO Selected  
+                                       
+                                       
+SERVO                         00110110 
+10-MAY-20 10:46 :32
 ========================================
 FILE 'MC:\SYSVARS.SV' is loaded        
-10-MAY-20 10:37 :38
+10-MAY-20 10:46 :32
 ========================================
 FILE 'MFS:\RLOPM61C.PC' is loaded      
-10-MAY-20 10:37 :32
+10-MAY-20 10:46 :26
 ========================================
 FILE 'MFS:\OPSETUP.PC' is loaded       
-10-MAY-20 10:37 :32
+10-MAY-20 10:46 :26
 ========================================
 FILE 'FRS:HSCDM61C.PC' is loaded       
-10-MAY-20 10:37 :32
+10-MAY-20 10:46 :26
 ========================================
 FILE 'MFS:\RLOPM61C.PC' is loaded      
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :22
 ========================================
 FILE 'MFS:\OPSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :22
 ========================================
 FILE 'MFS:\HSCDM61C.PC' is loaded      
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\RLSPM61C.PC' is loaded      
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\DGM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\DGSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\RLSTLVC.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\MSM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\MSSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\AAM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\AASETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\RLSTHSCD.PC' is loaded      
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'PATH:\SVM61C.VR' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'PATH:\RLSETSV.PC' is loaded      
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\DCM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\DCSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\CPM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\CPSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\PIM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\PISETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\TJM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'PATH:\RLSETTBJ.PC' is loaded     
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\TLM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'PATH:\RLSETTBC.PC' is loaded     
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\SMM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\SMSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\MUM61C.VR' is loaded        
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\MUSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'MFS:\RVSETUP.PC' is loaded       
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 FILE 'PATH:\RLSVM61C.PC' is loaded     
-10-MAY-20 10:37 :28
+10-MAY-20 10:46 :20
 ========================================
 Control start                          
-10-MAY-20 10:37 :24
+10-MAY-20 10:46 :16
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 I/O              
 ========================================
  SO[    3]    ON  -> OFF
-Tick:   2486
-TB:     -707615861
-10-MAY-20 10:38 :02
-========================================
- UO[    6]    ON  -> OFF
-Tick:   2485
-TB:     -707621573
-10-MAY-20 10:38 :02
-========================================
- SO[    0]    ON  -> OFF
-Tick:   2294
-TB:     -712229822
-10-MAY-20 10:38 :00
-========================================
- SO[    0]    OFF -> ON 
-Tick:   602
-TB:     -763012163
-10-MAY-20 10:37 :56
+Tick:   93436
+TB:     1261020162
+10-MAY-20 10:48 :28
 ========================================
  UO[    2]    OFF -> ON 
-Tick:   409
-TB:     -768303820
-10-MAY-20 10:37 :56
+ UO[    6]    ON  -> OFF
+Tick:   93435
+TB:     1260994339
+10-MAY-20 10:48 :28
 ========================================
  SO[    3]    OFF -> ON 
-Tick:   344
-TB:     -769972340
-10-MAY-20 10:37 :56
+Tick:   93274
+TB:     1256309489
+10-MAY-20 10:48 :28
+========================================
+ UO[    2]    ON  -> OFF
+ UO[    6]    OFF -> ON 
+Tick:   93273
+TB:     1256282695
+10-MAY-20 10:48 :28
+========================================
+ SO[    7]    ON  -> OFF
+Tick:   93244
+TB:     1255310126
+10-MAY-20 10:48 :28
+========================================
+ UO[    8]    ON  -> OFF
+Tick:   93243
+TB:     1255283738
+10-MAY-20 10:48 :28
+========================================
+ SO[    1]    ON  -> OFF
+Tick:   89308
+TB:     1214587732
+10-MAY-20 10:48 :22
+========================================
+ UO[    3]    ON  -> OFF
+ UO[   18]    ON  -> OFF
+Tick:   89307
+TB:     1214582062
+10-MAY-20 10:48 :22
+========================================
+Aborted      MULTIROBOTTASK,   0       
+   (TASK:7,TB:1214370840)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  49       
+   (TASK:7,TB:1211052105)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  48       
+   (TASK:7,TB:1208774655)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  47       
+   (TASK:7,TB:1207330315)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  46       
+   (TASK:7,TB:1205883649)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  45       
+   (TASK:7,TB:1203404023)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  44       
+   (TASK:7,TB:1201246017)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  43       
+   (TASK:7,TB:1199086002)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  42       
+   (TASK:7,TB:1196888415)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  41       
+   (TASK:7,TB:1195448620)              
+10-MAY-20 10:48 :22
+========================================
+Run FWD      MULTIROBOTTASK,  40       
+   (TASK:7,TB:1194003947)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  39       
+   (TASK:7,TB:1191603664)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  38       
+   (TASK:7,TB:1189446710)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  37       
+   (TASK:7,TB:1187285985)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  36       
+   (TASK:7,TB:1185405693)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  35       
+   (TASK:7,TB:1183968779)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  34       
+   (TASK:7,TB:1182527553)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  33       
+   (TASK:7,TB:1180560698)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  32       
+   (TASK:7,TB:1178402076)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  31       
+   (TASK:7,TB:1176243422)              
+10-MAY-20 10:48 :20
+========================================
+Run FWD      MULTIROBOTTASK,  30       
+   (TASK:7,TB:1174605010)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  29       
+   (TASK:7,TB:1173165908)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  28       
+   (TASK:7,TB:1171725754)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  27       
+   (TASK:7,TB:1170008914)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  26       
+   (TASK:7,TB:1167849394)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  25       
+   (TASK:7,TB:1165686537)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  24       
+   (TASK:7,TB:1164127474)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  23       
+   (TASK:7,TB:1162769663)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  22       
+   (TASK:7,TB:1161405582)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  21       
+   (TASK:7,TB:1159480628)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  20       
+   (TASK:7,TB:1157321443)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  19       
+   (TASK:7,TB:1155164118)              
+10-MAY-20 10:48 :18
+========================================
+Run FWD      MULTIROBOTTASK,  18       
+   (TASK:7,TB:1153523765)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  17       
+   (TASK:7,TB:1152085872)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  16       
+   (TASK:7,TB:1150648806)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  15       
+   (TASK:7,TB:1148644542)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  14       
+   (TASK:7,TB:1146484663)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  13       
+   (TASK:7,TB:1144325535)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  12       
+   (TASK:7,TB:1142127718)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  11       
+   (TASK:7,TB:1140682373)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,  10       
+   (TASK:7,TB:1139239639)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,   9       
+   (TASK:7,TB:1136395222)              
+10-MAY-20 10:48 :16
+========================================
+Run FWD      MULTIROBOTTASK,   8       
+   (TASK:7,TB:1134236839)              
+10-MAY-20 10:48 :14
+========================================
+Run FWD      MULTIROBOTTASK,   7       
+   (TASK:7,TB:1132077734)              
+10-MAY-20 10:48 :14
+========================================
+Run FWD      MULTIROBOTTASK,   6       
+   (TASK:7,TB:1129799874)              
+10-MAY-20 10:48 :14
+========================================
+Run FWD      MULTIROBOTTASK,   5       
+   (TASK:7,TB:1128280124)              
+10-MAY-20 10:48 :14
+========================================
+Run FWD      MULTIROBOTTASK,   4       
+   (TASK:7,TB:1126762330)              
+10-MAY-20 10:48 :14
+========================================
+Run FWD      MULTIROBOTTASK,   3       
+   (TASK:7,TB:1123764798)              
+10-MAY-20 10:48 :14
+========================================
+Run FWD      MULTIROBOTTASK,   2       
+   (TASK:7,TB:1121598188)              
+10-MAY-20 10:48 :14
+========================================
+ SO[    1]    OFF -> ON 
+Tick:   79738
+TB:     1118863207
+10-MAY-20 10:48 :14
+========================================
+ UO[    3]    OFF -> ON 
+ UO[   18]    OFF -> ON 
+Tick:   79737
+TB:     1118852210
+10-MAY-20 10:48 :14
+========================================
+Run FWD      MULTIROBOTTASK,   1       
+   (TASK:7,TB:1118792744)              
+10-MAY-20 10:48 :14
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   77656
+TB:     1097975918
+10-MAY-20 10:48 :12
+========================================
+ UO[    2]    OFF -> ON 
+ UO[    6]    ON  -> OFF
+Tick:   77655
+TB:     1097970830
+10-MAY-20 10:48 :12
+========================================
+ SO[    3]    OFF -> ON 
+Tick:   77434
+TB:     1095634020
+10-MAY-20 10:48 :12
+========================================
+ UO[    2]    ON  -> OFF
+ UO[    6]    OFF -> ON 
+Tick:   77433
+TB:     1095623846
+10-MAY-20 10:48 :12
+========================================
+ SO[    7]    OFF -> ON 
+Tick:   77212
+TB:     1093058917
+10-MAY-20 10:48 :10
+========================================
+ UO[    8]    OFF -> ON 
+Tick:   77211
+TB:     1093050510
+10-MAY-20 10:48 :10
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   2554
+TB:     331322962
+10-MAY-20 10:46 :54
+========================================
+ UO[    6]    ON  -> OFF
+Tick:   2553
+TB:     331313127
+10-MAY-20 10:46 :54
+========================================
+ SO[    0]    ON  -> OFF
+Tick:   2332
+TB:     326141975
+10-MAY-20 10:46 :54
+========================================
+ SO[    0]    OFF -> ON 
+Tick:   604
+TB:     273975745
+10-MAY-20 10:46 :48
+========================================
+ UO[    2]    OFF -> ON 
+Tick:   411
+TB:     268794982
+10-MAY-20 10:46 :48
+========================================
+ SO[    3]    OFF -> ON 
+Tick:   346
+TB:     267186393
+10-MAY-20 10:46 :48
 ========================================
  UO[    6]    OFF -> ON 
-Tick:   343
-TB:     -770002407
-10-MAY-20 10:37 :56
+Tick:   345
+TB:     267156403
+10-MAY-20 10:46 :48
 ========================================
  AO[    3]    0
  AO[    3]    0
@@ -978,9 +1633,9 @@ TB:     -770002407
  UO[   34]    OFF
  UO[   35]    OFF
  UO[   36]    OFF
-Tick:   235
-TB:     -780802478
-10-MAY-20 10:37 :54
+Tick:   237
+TB:     256279774
+10-MAY-20 10:46 :48
 ========================================
  AI[   17]    0
  AI[   13]    0
@@ -990,9 +1645,9 @@ TB:     -780802478
  AI[   21]    0
  AI[   23]    0
  AO[    1]    0
-Tick:   234
-TB:     -780803748
-10-MAY-20 10:37 :54
+Tick:   236
+TB:     256278771
+10-MAY-20 10:46 :48
 ========================================
  AI[    7]    0
  AI[    9]    0
@@ -1002,9 +1657,9 @@ TB:     -780803748
  AI[   11]    0
  AI[   13]    0
  AI[   15]    0
-Tick:   233
-TB:     -780924352
-10-MAY-20 10:37 :54
+Tick:   235
+TB:     256158908
+10-MAY-20 10:46 :48
 ========================================
  DO[   65]    OFF
  DO[   66]    OFF
@@ -1089,9 +1744,9 @@ TB:     -780924352
  AI[    1]    0
  AI[    3]    0
  AI[    5]    0
-Tick:   232
-TB:     -780930454
-10-MAY-20 10:37 :54
+Tick:   234
+TB:     256152843
+10-MAY-20 10:46 :48
 ========================================
  DI[   81]    OFF
  DI[   82]    OFF
@@ -1217,9 +1872,9 @@ TB:     -780930454
  DO[   62]    OFF
  DO[   63]    OFF
  DO[   64]    OFF
-Tick:   231
-TB:     -780931159
-10-MAY-20 10:37 :54
+Tick:   233
+TB:     256152177
+10-MAY-20 10:46 :48
 ========================================
  SI[    0]    ON 
  SI[    1]    OFF
@@ -1347,6 +2002,6 @@ TB:     -780931159
  DI[   78]    OFF
  DI[   79]    OFF
  DI[   80]    OFF
-Tick:   230
-TB:     -780932177
-10-MAY-20 10:37 :54
+Tick:   232
+TB:     256151140
+10-MAY-20 10:46 :48

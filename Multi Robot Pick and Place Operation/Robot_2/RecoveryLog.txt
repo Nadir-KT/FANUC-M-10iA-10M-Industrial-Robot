@@ -79,7 +79,7 @@ Updated $MC_PATH = C:\Users\NDR\DOCUME~1\GitHub\MULTIR~1\Robot_2\mc
 Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V7.50
 Updated $UD1_PATH to = 
 Updated $UD2_PATH to = 
-[syinit] bootrom time: 361468 ms
+[syinit] bootrom time: 35824 ms
 [syinit] ** INITIAL START **
 [syinit] System Version V7.50130      3/19/2015
 [ERLOG] Waiting for UIF to start up
@@ -88,20 +88,20 @@ Updated $UD2_PATH to =
 [ostkinit] ID $31 type 1D baud 31 version I
 [ostkinit] TP Baud Rate 19200
 [NTPORT] accept connection
-[syinit] ** INITIAL START **
 [ostkinit] TPWDOG_CHK+2 $1000
+[syinit] ** INITIAL START **
 [dpinit] setting cur lang to NULL
 [dpsetlng] setting cur lang to DEFAULT     
 [tppascon_config] wait for EVB_SPINITDONE
 [SYINISB0] Delete MEMO, VMGR, and DICT files ... 
 [sycfgmen] alloc cfgmenu_t @ 0x406F758C
 [sycfgmen] cfgmenu_p 0x406F758C
-[syinisb0] tpid check ltp = 0x755358, tpid = 49
+[syinisb0] tpid check ltp = 0x605260, tpid = 49
 [NTSYIN_STEP] Startup Step #1
 VMGR for R-J3iC V7.20
 [vmshadow_periodic] Normal power shutdown state = 0
 [vminit_loadctx] Loading all files
-[vminit_loadctx] Done Loading Time = 9136us
+[vminit_loadctx] Done Loading Time = 8904us
 [NTSYIN_STEP] Startup Step #2
 [syinisb0] $device set to PATH:
 BMON =config\\
@@ -354,14 +354,14 @@ BMON =config\\
 [NTFRCPY] Did not load \VSMO.DLL
 [NTFRCPY] Did not load \YBOX.DLL
 [NTFRCPY] Did not load \SFMRVAT.DLL
-[SYSINISB0] spspload reference time 44355 ms, This Time 276ms
+[SYSINISB0] spspload reference time 44355 ms, This Time 300ms
 [NTSYIN_STEP] Startup Step #5
-[SYINISB)] total time 5263
+[SYINISB)] total time 5287
 [NTSYIN_STEP] Startup Step #6
 [NTSYIN_STEP] Startup Step #7
 [SYINISUB] Saving user device PATH:
 Updated $CUSTO_PATH to = 
-[syinisub] RTC 50AA54C5 50AA54C5 check1 0 0 
+[syinisub] RTC 50AA55E1 50AA55E1 check1 0 0 
 [SYINISUB] RTC not initialzed -- RESETTING to 0
 [NTSYIN_STEP] Startup Step #8
 [NTSYIN_STEP] Startup Step #9
@@ -524,8 +524,8 @@ MEMO for R-J3iC Version V7.50 Rev-0
 sizeof(DCS_SRAM_PRM_T):0x428, DCS_SRAM_PRM_SIZE:0x1000
 sizeof(DCS_FROM_PRM_T):0xA5DC, DCS_FROM_PRM_SIZE:0xC000
 sizeof(DCS_WORK_T):0x2CEB0, DCS_WORK_SIZE:0x30000
-file creation OK:247984448
-file creation OK:247984448
+file creation OK:241299776
+file creation OK:241299776
   [load_safety_param(MAIN)]load_address:0x11FE8000, size:0xA5DC
 [NTSYIN_STEP] Startup Step #21
 [NTSYIN_STEP] Startup Step #22
@@ -546,8 +546,8 @@ file creation OK:247984448
 [SYRESTART] switching modes from 0 to 1
 [pal_reset] Restarting system
 Switching states: old = STARTUP   new = RESTART 
-Tick            Avg: 1.103 ms, Min: 0.001 ms, Max: 4947.101 ms, ticks: 9017
-Execution times Avg: 0.003 ms, Min: 0.001 ms, Max: 0.014 ms
+Tick            Avg: 1.102 ms, Min: 0.002 ms, Max: 4976.276 ms, ticks: 9015
+Execution times Avg: 0.003 ms, Min: 0.002 ms, Max: 0.014 ms
 Switching states: old = RESTART   new = STARTUP 
 [NTINIT] Frequency 10000000, Ticks/ms 10000 BusClock 40000000
 [IEWTQ] Count = 0 add to head/tail task: 199  cnt: 24  pri: 10
@@ -567,7 +567,7 @@ Updated $MC_PATH = C:\Users\NDR\DOCUME~1\GitHub\MULTIR~1\Robot_2\mc
 Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V7.50
 Updated $UD1_PATH to = C:\Users\NDR\DOCUME~1\GitHub\MULTIR~1\Robot_2\ud1
 Updated $UD2_PATH to = C:\Users\NDR\DOCUME~1\GitHub\MULTIR~1\Robot_2\ud2
-[syinit] bootrom time: 371517 ms
+[syinit] bootrom time: 45838 ms
 [syinit] ** CONTROLLED START **
 [syinit] System Version V7.50130      3/19/2015
 [ERLOG] Waiting for UIF to start up
@@ -581,19 +581,19 @@ Updated $UD2_PATH to = C:\Users\NDR\DOCUME~1\GitHub\MULTIR~1\Robot_2\ud2
 [tppascon_config] wait for EVB_SPINITDONE
 [sycfgmen] cfgmenu_p 0x406F758C
 [ostkinit] TPWDOG_CHK+2 $1000
-[syinisb0] tpid check ltp = 0x755358, tpid = 49
+[syinisb0] tpid check ltp = 0x605260, tpid = 49
 [NTSYIN_STEP] Startup Step #33
 VMGR for R-J3iC V7.20
 [vmshadow_periodic] Normal power shutdown state = 0
 [vminit_loadctx] Loaded FRB:\S-SYSTEM.IRV only
-[vminit_loadctx] Done Loading Time = 42478us
+[vminit_loadctx] Done Loading Time = 42062us
 [NTSYIN_STEP] Startup Step #34
 [NTFRCPY] Did not load \TMILIB.DLL
 [NTSYIN_STEP] Startup Step #35
 [TX] Start
 [PMON] PC Monitor Task
 [rpcm] create TCP/IP RPC service
-[svctcp_create] RPCMAIN Server ready for connections on 2913
+[svctcp_create] RPCMAIN Server ready for connections on 3118
 [rpcm] call softparts to register service
 [rpcdaqs] register RPCDAQS service
 [rpcm] wait for connection
@@ -621,10 +621,10 @@ Web Enhancements installed
 [NTFRCPY] Did not load \YBOX.DLL
 [SYSINISB0] spspload reference time 44355 ms, This Time 84ms
 [vminit_loadctx] Loading all files
-[vminit_loadctx] Done Loading Time = 43603us
+[vminit_loadctx] Done Loading Time = 43991us
 [Syin] Mobo start 0xFFFFFFFF
 [NTSYIN_STEP] Startup Step #37
-[SYINISB)] total time 734
+[SYINISB)] total time 728
 [NTSYIN_STEP] Startup Step #38
 [NTSYIN_STEP] Startup Step #39
 [SYINISUB] Saving user device PATH:
@@ -639,7 +639,7 @@ Web Enhancements installed
 [TELNET]error starting server FFFFFFFF
 [ntsyin] VIRTUAL setting $MSKSIGN=0
 [ntsyin] VIRTUAL setting $MSKCONREL=0
-[ostksock_create] Socket 1192 binding to IP port # 60005
+[ostksock_create] Socket 1524 binding to IP port # 60005
 [ostksock_create] T-X IP address <001.001.001.011>
 [NTSYIN_STEP] Startup Step #41
 [syinit] : calling iosetup
@@ -1035,6 +1035,7 @@ OPTN-008 Requires: `iRVision Core        '
 OPTN-008 Requires: `iRVision Core VCPU   '                                   
 OPTN-002 Installed: `CVIS FREEZE VLOG TASK'                                  
 OPTN-002 Installed: `VP2S MM CONVERSION   '                                  
+[osppc] Timer sync timeout! tid: 34
 OPTN-002 Installed: `FIX TP FREEZE IBPX   '                                  
 OPTN-002 Installed: `FX DB/TB BUSY RUNNING'                                  
 OPTN-002 Installed: `RECORD CALIBRATION LO'                                  
@@ -1069,7 +1070,6 @@ OPTN-002 Installed: `CVIS:SPEC CHANGE OF V'
 OPTN-008 Requires: `Initial Setting Load '                                   
 OPTN-008 Requires: `iRCalibration VMaster'                                   
 OPTN-008 Requires: `Initial Setting Load '                                   
-[osppc] Timer sync timeout! tid: 34
 OPTN-008 Requires: `Vision SP CTEP       '                                   
 OPTN-008 Requires: `Vision SP CTPC       '                                   
 OPTN-008 Requires: `iRVision Core        '                                   
@@ -1167,11 +1167,11 @@ OPTN-018 No CUSTOMIZ additions on this media
 [TPSPART] Found KAREL ATPRSCRN 932
 [TPSPART] Found KAREL ATPASWRD 935
 [TPSPART] Found KAREL ATINSTAL 936
-[TPKSINIT] dname -K943- not found devstat = 0 cfg $81AAE78
+[TPKSINIT] dname -K943- not found devstat = 0 cfg $8175E78
 [TPSPART] Found KAREL ATCELLIO 955
 [TPSPART] Found KAREL HTSETUP 962
-[TPKSINIT] dname -K972- not found devstat = 0 cfg $81A6D10
-[TPKSINIT] dname -K973- not found devstat = 0 cfg $81F0B68
+[TPKSINIT] dname -K972- not found devstat = 0 cfg $8171D10
+[TPKSINIT] dname -K973- not found devstat = 0 cfg $81BBB68
 [TPSPART] Found KAREL ATSOFTPA 992
 [FTP] getservbyname failed
 [FTP] getservbyname failed
@@ -1280,8 +1280,8 @@ BMON not updated status -2
 [SYRESTART] switching modes from 1 to 2
 [pal_reset] Restarting system
 Switching states: old = STARTUP   new = RESTART 
-Tick            Avg: 2.638 ms, Min: 0.001 ms, Max: 5016.314 ms, ticks: 15066
-Execution times Avg: 0.005 ms, Min: 0.001 ms, Max: 0.117 ms
+Tick            Avg: 2.632 ms, Min: 0.002 ms, Max: 5017.953 ms, ticks: 15115
+Execution times Avg: 0.005 ms, Min: 0.001 ms, Max: 0.057 ms
 Switching states: old = RESTART   new = STARTUP 
 [NTINIT] Frequency 10000000, Ticks/ms 10000 BusClock 40000000
 [IEWTQ] Count = 0 add to head/tail task: 199  cnt: 24  pri: 10
@@ -1301,7 +1301,7 @@ Updated $MC_PATH = C:\Users\NDR\Documents\GitHub\Multi Robot Pick and Place Oper
 Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V7.50
 Updated $UD1_PATH to = C:\Users\NDR\Documents\GitHub\Multi Robot Pick and Place Operation\Robot_2\UD1
 Updated $UD2_PATH to = C:\Users\NDR\Documents\GitHub\Multi Robot Pick and Place Operation\Robot_2\UD2
-[syinit] bootrom time: 401583 ms
+[syinit] bootrom time: 75950 ms
 [syinit] ** COLD START **
 [syinit] System Version V7.50130      3/19/2015
 [ERLOG] Waiting for UIF to start up
@@ -1315,20 +1315,20 @@ Updated $UD2_PATH to = C:\Users\NDR\Documents\GitHub\Multi Robot Pick and Place 
 [tppascon_config] wait for EVB_SPINITDONE
 [sycfgmen] cfgmenu_p 0x406F758C
 [ostkinit] TPWDOG_CHK+2 $1000
-[syinisb0] tpid check ltp = 0x755358, tpid = 49
+[syinisb0] tpid check ltp = 0x605260, tpid = 49
 [NTSYIN_STEP] Startup Step #68
 VMGR for R-J3iC V7.20
 [vmshadow_periodic] Normal power shutdown state = 0
 [vminit_loadctx] Loaded FRB:\S-SYSTEM.PRV only
 [vminit_loadctx] Loaded FRB:\S-INTERN.PRV only
-[vminit_loadctx] Done Loading Time = 57248us
+[vminit_loadctx] Done Loading Time = 56997us
 [NTSYIN_STEP] Startup Step #69
 [NTFRCPY] Did not load \TMILIB.DLL
 [NTSYIN_STEP] Startup Step #70
 [TX] Start
 [PMON] PC Monitor Task
 [rpcm] create TCP/IP RPC service
-[svctcp_create] RPCMAIN Server ready for connections on 2923
+[svctcp_create] RPCMAIN Server ready for connections on 3127
 [rpcm] call softparts to register service
 [rpcdaqs] register RPCDAQS service
 [rpcm] wait for connection
@@ -1354,12 +1354,12 @@ Web Enhancements installed
 [NTFRCPY] Did not load \UECK.DLL
 [NTFRCPY] Did not load \VSMO.DLL
 [NTFRCPY] Did not load \YBOX.DLL
-[SYSINISB0] spspload reference time 44355 ms, This Time 97ms
+[SYSINISB0] spspload reference time 44355 ms, This Time 98ms
 [vminit_loadctx] Loading all files
-[vminit_loadctx] Done Loading Time = 46880us
+[vminit_loadctx] Done Loading Time = 47202us
 [Syin] Mobo start 0xFFFFFFFF
 [NTSYIN_STEP] Startup Step #72
-[SYINISB)] total time 859
+[SYINISB)] total time 871
 [NTSYIN_STEP] Startup Step #73
 [NTSYIN_STEP] Startup Step #74
 [SYINISUB] Saving user device MC:
@@ -1433,7 +1433,7 @@ sswrkset ****rspaceg_p is 40626C80
 [vlog] oschggrp(115, 4, 0) 0x00000000
 [vtrn] wake up
 [vtrn] oschggrp(136, 4, 0) 0x00000000
-[vtrn] VTRN_P: $082B6F44
+[vtrn] VTRN_P: $08284F44
 
 WEB Server starting
 Web Enhancements installed
@@ -1454,9 +1454,9 @@ Web Enhancements installed
 [DEBUG] Entering moinit
 SYST-026 System normal power up                                                
 [lcmainsp] size of $SERV_REC is 3616
-[modaq] create XYZ named pipe hPipe = 6A4
-[sfmdest] null_flg_p:7E1A53C
-[miinit][1] posted init PKT <6838BDC> to task<72> (0)
+[modaq] create XYZ named pipe hPipe = 5D8
+[sfmdest] null_flg_p:7DE853C
+[miinit][1] posted init PKT <6806BDC> to task<72> (0)
 [mpinit] initialize mb_fp
 [mpinit] after mpdyinit
 [mpinit] ossndpkt <0>
@@ -1468,7 +1468,7 @@ SYST-026 System normal power up
 [nectkini] finish wake up  stat = 0
 [moinit] done
 [miinit] done 
-[ostksock_create] Socket 1496 binding to IP port # 60005
+[ostksock_create] Socket 1600 binding to IP port # 60005
 [ostksock_create] T-X IP address <001.001.001.011>
 [mfinidsp] wait for SCRDY
 [mfinidsp] start ITP
@@ -1476,7 +1476,7 @@ SYST-026 System normal power up
 [mfinidsp] check FSSB open
 [mfinidsp] waiting for SSTB...
 [mfinidsp] all SSTB become 1
-[syinisub] TICK_OFFSET 70457C to 0
+[syinisub] TICK_OFFSET 5A8664 to 0
 [NTSYIN_STEP] Startup Step #101
 [NTSYIN_STEP] Startup Step #102
 [syinit] waiting for EVF_ENB_PWF...
@@ -1517,7 +1517,7 @@ WEB Server starting
 [HTTC]: Binding to tcp port number 9002
 [symonutl] Getting data (3EA, 0)
 [symonutl] Fail to get mac from I2C (1)
-SYINISUB TOTAL TIME 2107
+SYINISUB TOTAL TIME 2117
 [SYINISUB] restored user device MC:
 [NTSYIN_STEP] Startup Step #107
 [TPSPART] Found KAREL ATMSKCHG 200
@@ -1525,10 +1525,10 @@ SYINISUB TOTAL TIME 2107
 [TPSPART] Found KAREL ATWAITRL 931
 [TPSPART] Found KAREL ATPRSCRN 932
 [TPSPART] Found KAREL ATPASWRD 935
-[TPKSINIT] dname -K943- not found devstat = 0 cfg $7B732B8
+[TPKSINIT] dname -K943- not found devstat = 0 cfg $7B412B8
 [TPSPART] Found KAREL ATCELLIO 955
-[TPKSINIT] dname -K972- not found devstat = 0 cfg $7B7302C
-[TPKSINIT] dname -K973- not found devstat = 0 cfg $7B72F10
+[TPKSINIT] dname -K972- not found devstat = 0 cfg $7B4102C
+[TPKSINIT] dname -K973- not found devstat = 0 cfg $7B40F10
 [TPSPART] Found KAREL ATSOFTPA 992
 [FTP] getservbyname failed
 [FTP] getservbyname failed

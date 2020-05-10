@@ -1,8 +1,8 @@
 #
-# Layout Info File : Sun May 10 10:32:13 2020
+# Layout Info File : Sun May 10 10:56:43 2020
 #
 LayInfo V1.0 Ascii
-13	12
+15	14
 
 1	Workcell
 2	Workcell2
@@ -16,3 +16,5 @@ LayInfo V1.0 Ascii
 10	Workcell
 11	Workcell3
 12	Workcell
+13	Workcell
+14	Workcell

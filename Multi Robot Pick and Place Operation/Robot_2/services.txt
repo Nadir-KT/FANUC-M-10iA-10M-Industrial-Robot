@@ -1,4 +1,4 @@
-RPCMAIN                   : 2923
+RPCMAIN                   : 3127
 Teach Pendant             : 9104
 FTP                       : 9125
 CGTP Web Server           : 9000
@@ -9,7 +9,7 @@ KCL                       : 9106
 Console/SMON              : 9105
 Cimplicity Server         : 9020
 Robot IF Server           : 9021
-ROBOGUIDE (pid)           : 5308
-Virtual Robot (pid)       : 6088
-Robot Server (pid)        : 6412
-Robot Server HostName     : 127.0.0.1:2923
+ROBOGUIDE (pid)           : 8908
+Virtual Robot (pid)       : 5344
+Robot Server (pid)        : 4736
+Robot Server HostName     : 127.0.0.1:3127
