@@ -1,7 +1,7 @@
 F Number: F00000    
 VERSION : HandlingTool         
 $VERSION: V7.50130      3/19/2015
-DATE:     10-MAY-20 10:19 
+DATE:     10-MAY-20 10:34 
 
 ETHERNET CONFIGURATION::
 
@@ -80,23 +80,23 @@ ETHERNET STATISTICS:
 -max bds:             0              
 -intr pkt defer:      0              
 Socket    UseTid    OwnTid   State   NonBlock  TrigEvent  Port
-0x 5E8   188:SCCD  188:SCCD  NOPEND     N     0x     4E4   9100
-0x 4DC   189:SCCD  189:SCCD  NOPEND     N     0x     4E8   9101
-0x 62C   190:SCCD  190:SCCD  NOPEND     N     0x     628   9102
-0x 5E4   191:SCCD  191:SCCD  NOPEND     N     0x     4B8   9103
-0x 644   171:RPCM  171:RPCM  SELECT     N     0x     638      0
-0x 60C   171:RPCM  171:RPCM  SELECT     N     0x     4D4   3002
-0x 610   150:HTTP  150:HTTP  ACCEPT     N     0x     5F8   3080
-0x 5B8   221:SNPX  221:SNPX  SELECT     N     0x     604  18245
-0x 4A4   221:SNPX  221:SNPX  SELECT     N     0x     614  -5528
-0x 5AC    75:TLNT   75:TLNT  NOPEND     Y     0x     4C4     23
-0x 4E0   186:HTTP  186:HTTP  ACCEPT     N     0x     488     80
-0x 5E0   XXX:____   33:TKEY  NOPEND     Y     0x     48C -5532
-0x 5B0   184:      184:      SELECT     N     0x     5D8  -5528
-0x 640    97:PRXY   97:PRXY  SELECT     Y     0x     63C   8080
-0x 4C0    97:PRXY   97:PRXY  SELECT     Y     0x     4BC  -5531
-0x 5CC    97:PRXY   97:PRXY  SELECT     Y     0x     630  -5527
-0x 5A0   234:HTTP  234:HTTP  ACCEPT     N     0x     5A8   4080
-0x 634   177:      177:      NOPEND     N     0x     620     21
-0x 650   182:PMON  182:PMON  NOPEND     N     0x     64C      0
-0x 65C   174:TCPM  174:TCPM  NOPEND     N     0x     658      0
+0x 5F4   188:SCCD  188:SCCD  NOPEND     N     0x     5F0   9100
+0x 640   189:SCCD  189:SCCD  NOPEND     N     0x     4EC   9101
+0x 628   190:SCCD  190:SCCD  NOPEND     N     0x     5A8   9102
+0x 5C8   191:SCCD  191:SCCD  NOPEND     N     0x     4B0   9103
+0x 5D0   171:RPCM  171:RPCM  SELECT     N     0x     5A4      0
+0x 5BC   171:RPCM  171:RPCM  SELECT     N     0x     63C   3002
+0x 60C   150:HTTP  150:HTTP  ACCEPT     N     0x     630   3080
+0x 604   221:SNPX  221:SNPX  SELECT     N     0x     610  18245
+0x 4B8   221:SNPX  221:SNPX  SELECT     N     0x     4B4  -5528
+0x 614    75:TLNT   75:TLNT  NOPEND     Y     0x     620     23
+0x 49C   186:HTTP  186:HTTP  ACCEPT     N     0x     634     80
+0x 608   XXX:____   33:TKEY  NOPEND     Y     0x     5E4 -5532
+0x 5E0   184:      184:      SELECT     N     0x     5DC  -5528
+0x 5C4    97:PRXY   97:PRXY  SELECT     Y     0x     4E0   8080
+0x 4DC    97:PRXY   97:PRXY  SELECT     Y     0x     4D0  -5531
+0x 498    97:PRXY   97:PRXY  SELECT     Y     0x     4A0  -5527
+0x 644   234:HTTP  234:HTTP  ACCEPT     N     0x     650   4080
+0x 5B0   177:      177:      NOPEND     N     0x     648     21
+0x 480   182:PMON  182:PMON  NOPEND     N     0x     5F8      0
+0x 670   174:TCPM  174:TCPM  NOPEND     N     0x     674      0

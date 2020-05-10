@@ -3,7 +3,7 @@
 F Number: F00000    
 VERSION : HandlingTool         
 $VERSION: V7.50130      3/19/2015
-DATE:     10-MAY-20 09:27 
+DATE:     10-MAY-20 10:39 
 
 VERSION INFORMATION::
 SOFTWARE:              ID:
@@ -323,8 +323,8 @@ TPP          700.0KB     688.7KB     688.7KB
 PERM        2040.0KB     803.9KB     803.3KB
 SYSTEM          .0KB       0.0KB       0.0KB
 SHADOW      6296.4KB    6096.2KB      32.0KB
-TEMP       32709.0KB   18979.3KB   18921.1KB
-FROM       31857.0KB   27164.0KB        .0KB
+TEMP       32709.0KB   18979.3KB   18928.5KB
+FROM       31857.0KB   27151.0KB        .0KB
 HARDWARE
 FROM      32MB
 DRAM      32MB
@@ -705,7 +705,7 @@ UI[  15] OFF  RSR7/PNS7/STYLE7
 UI[  16] OFF  RSR8/PNS8/STYLE8
 UI[  17] OFF  PNS strobe
 UI[  18] OFF  Prod start
-UO[   1]  ON  Cmd enabled
+UO[   1] OFF  Cmd enabled
 UO[   2]  ON  System ready
 UO[   3] OFF  Prg running
 UO[   4] OFF  Prg paused
@@ -756,7 +756,7 @@ SO[  12] OFF
 SO[  13] OFF  
 SO[  14] OFF  
 SO[  15] OFF  
-SO[  16]  ON  
+SO[  16] OFF  
 UI[   1]  ON  *IMSTP
 UI[   2]  ON  *Hold
 UI[   3]  ON  *SFSPD
@@ -775,7 +775,7 @@ UI[  15] OFF  RSR7/PNS7/STYLE7
 UI[  16] OFF  RSR8/PNS8/STYLE8
 UI[  17] OFF  PNS strobe
 UI[  18] OFF  Prod start
-UO[   1]  ON  Cmd enabled
+UO[   1] OFF  Cmd enabled
 UO[   2]  ON  System ready
 UO[   3] OFF  Prg running
 UO[   4] OFF  Prg paused
