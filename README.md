@@ -1,4 +1,4 @@
-# FANUC-M10-Series-Industrial-Robot
+# Multi-Robot-Task-with-FANUC-M10-Series-Industrial-Robots
 Karel program for FANUC M-10iA/10M Industrial Robot to run pick and place operation of connecting rods between two fixture tables.
 
 Industrial Robot Used : FANUC M-10iA/10M
