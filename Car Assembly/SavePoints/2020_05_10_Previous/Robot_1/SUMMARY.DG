@@ -3,7 +3,7 @@
 F Number: F00000    
 VERSION : HandlingTool         
 $VERSION: V7.50130      3/19/2015
-DATE:     10-MAY-20 09:09 
+DATE:     10-MAY-20 09:23 
 
 VERSION INFORMATION::
 SOFTWARE:              ID:
@@ -320,11 +320,11 @@ MEMORY USAGE::
 MEMORY DETAIL (MAIN):
 Pools        TOTAL     AVAILABLE      LARGEST
 TPP          700.0KB     690.4KB     689.8KB
-PERM        2040.0KB     802.4KB     801.8KB
+PERM        2040.0KB     803.9KB     803.3KB
 SYSTEM          .0KB       0.0KB       0.0KB
 SHADOW      6296.4KB    6096.2KB      32.0KB
-TEMP       32709.0KB   18953.6KB   18931.9KB
-FROM       31857.0KB   27193.0KB        .0KB
+TEMP       32709.0KB   18959.8KB   18939.3KB
+FROM       31857.0KB   27179.0KB        .0KB
 HARDWARE
 FROM      32MB
 DRAM      32MB
@@ -374,12 +374,7 @@ Line:    91       Program: LOADCELL                              Type: PC
 Routine depth: 0  Routine: SWIMSET                             
 Line:   348       Program: SWIMSET                               Type: PC    
 
-7          CAR status = ABORTED
-
-******  History Data  ******
-Routine depth: 0  Routine: CAR                                 
-Line:     1       Program: CAR                                   Type: TP    
-
+7              status = ABORTED
 
 </PRE><H2><A NAME="4">I/O status information</A></H2>
 <PRE><A HREF="#TOP"></A><P>
@@ -717,7 +712,7 @@ UO[   4] OFF  Prg paused
 UO[   5] OFF  Motion held
 UO[   6] OFF  Fault
 UO[   7] OFF  At perch
-UO[   8]  ON  TP enabled
+UO[   8] OFF  TP enabled
 UO[   9] OFF  Batt alarm
 UO[  10] OFF  Busy
 UO[  11] OFF  ACK1/SNO1
@@ -752,7 +747,7 @@ SO[   3] OFF  Fault LED
 SO[   4] OFF  Batt alarm
 SO[   5] OFF  User LED#1
 SO[   6] OFF  User LED#2
-SO[   7]  ON  TP enabled
+SO[   7] OFF  TP enabled
 SO[   8] OFF  
 SO[   9] OFF  
 SO[  10] OFF  
@@ -787,7 +782,7 @@ UO[   4] OFF  Prg paused
 UO[   5] OFF  Motion held
 UO[   6] OFF  Fault
 UO[   7] OFF  At perch
-UO[   8]  ON  TP enabled
+UO[   8] OFF  TP enabled
 UO[   9] OFF  Batt alarm
 UO[  10] OFF  Busy
 UO[  11] OFF  ACK1/SNO1
@@ -939,7 +934,7 @@ OverTravel       FALSE
 Low Air Alarm    FALSE
 Fence Open       FALSE
 Belt Broken      FALSE
-TP Enable        TRUE 
+TP Enable        FALSE
 TP Deadman       FALSE
 SVOFF Detect     FALSE
 Servo Disconnect FALSE

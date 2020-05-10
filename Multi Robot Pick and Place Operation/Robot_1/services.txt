@@ -9,7 +9,7 @@ KCL                       : 9102
 Console/SMON              : 9101
 Cimplicity Server         : 18245
 Robot IF Server           : 60008
-ROBOGUIDE (pid)           : 9156
-Virtual Robot (pid)       : 8144
-Robot Server (pid)        : 8684
+ROBOGUIDE (pid)           : 4764
+Virtual Robot (pid)       : 6976
+Robot Server (pid)        : 8880
 Robot Server HostName     : 127.0.0.1:3002
