@@ -3,7 +3,7 @@ Karel program for FANUC M-10iA/10M Industrial Robot to run pick and place operat
 
 Industrial Robot Used : FANUC M-10iA/10M
 
-https://www.fanuc.eu/es/en/robots/robot-filter-page/m-10-series/m-10ia-10m
+https://www.fanucamerica.com/products/robots/series/m-10
 
 Robot Simulation Software : FANUC Virtual Robot Controller V7.50
 
